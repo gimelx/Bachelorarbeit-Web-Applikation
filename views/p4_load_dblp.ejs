@@ -1,0 +1,46 @@
+<%- include('includes/head.ejs') %>
+</head>
+
+<body>
+    <%- include('includes/navigation.ejs') %>
+    <h1>Laden in MySQL</h1>
+    <main>
+        <p>
+            Öffnen Sie die MySql-Workbench und erstellen sie eine Datenbank mit folgenden Eigenschaften:
+        </p>
+        <p>
+            host: "localhost",
+            user: "root",
+            password: "root",
+            database: "dblp",
+            port: "3306"
+        </p>
+
+        <p>
+            Drücken Sie anschliessend den Button, um die Daten in die MySql Datenbank zu lesen.
+        </p>
+
+        <form action="/load_dblp_sql" method="POST">
+            <button class="btn" type="submit">Lade in SQL Datenbank</button>
+        </form>
+        <br>
+        <br>
+        <br>
+        <h3>Gehe zu:</h3>
+
+        <table style="border-radius: 100;">
+            <tr>
+                
+                <td>
+                    <form action="/transformations_dblp">
+                        <button class="btn" type="submit">MySQL Transformationen</button>
+                    </form>
+                </td>
+             
+            </tr>
+        </table>
+
+        
+    </main>
+
+<%- include('includes/end.ejs') %>

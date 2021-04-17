@@ -1,0 +1,24 @@
+<%- include('includes/head.ejs') %>
+</head>
+
+<body>
+    <%- include('includes/navigation.ejs') %>
+    <h1>General Scraping</h1>
+    <h1>Resultat</h1>
+    <main>
+        <h3>Resultat:</h3>
+        <form action="/downloadjson_general" method="POST"> <!-- noch zu ändern ind pager + funnkitn für general erstellen -->
+            <button class="btn" type="submit">Herunterladen des JSON-Files</button>
+        </form>
+        <br>
+        <br>
+        <h3>Gehe zu:</h3>
+        <form action="/p4_general_load">
+            <button class="btn" type="submit">Laden in Datenbank</button>
+        </form>
+
+        
+    </main>
+   
+
+<%- include('includes/end.ejs') %>

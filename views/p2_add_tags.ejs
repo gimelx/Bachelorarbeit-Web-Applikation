@@ -1,0 +1,84 @@
+<%- include('includes/head.ejs') %>
+</head>
+
+<body>
+    <%- include('includes/navigation.ejs') %>
+    <h1>General Dataselection</h1>
+    <main>
+        <script> 
+            document.getElementById("alert").addEventListener("click", myFunction);
+            document.getElementById("attrButon").addEventListener("click", addTextField);
+
+            function myFunction() {
+            alert('Scraping-Process(general) has started.');
+            }
+
+            function addTextField() {
+                /* alert('button func'); */
+                
+                if(document.getElementById("attr1").style.visibility =="hidden"){
+                    document.getElementById("attr1").style.visibility = "visible";
+                    
+                }else if(document.getElementById("attr2").style.visibility =="hidden"){
+                    console.log('loop 2')
+                    document.getElementById("attr2").style.visibility = "visible";
+                    
+                }else{
+                    document.getElementById("attr3").style.visibility = "visible";
+                    
+                }
+                
+            }
+            
+
+        </script>
+        <h3>
+            Anleitung:  
+        </h3>
+        <p>
+            Bitte geben sie beim Textfeld "URL" die gewünschte Webseite an. 
+        </p>
+        <p>
+            Folgen Sie den Beschreibungen in der Bachelorarbeit "Automatisierung eines Web Scraping und Analyse Prozesses im Bereich der Literaturanalyse" unter dem Kapitel Evaluation.
+        </p>
+
+        <br>
+        <form action="/p2_general_post" method="POST" >
+            <label for="url">URL:
+            <input id="url" name="url">
+            <br>
+            <br>
+            <label for="metatag">Meta-tag:
+            <input id="metatag" name="metatag">
+            </label>
+            <label id="attr1" for="attr1" style = "visibility: hidden;">Attribut 1: 
+            <input name="attr1">
+            </label>
+            <label id="attr2" for="attr2" style = "visibility: hidden;">Attribut 2: 
+            <input name="attr2">
+            </label>
+            <label id="attr3" for="attr3" style = "visibility: hidden;">Attribut 3: 
+            <input name="attr3">
+            </label>
+            <br>
+            <button id="attrButon" onclick="addTextField();" type="button">Attribut hinzufügen</button>
+            <br>
+            <br>
+            <button class="btn" type="submit">Zu Skript hinzufügen</button>
+        </form>  
+        <br>
+        <br>
+            
+            <br>
+            <form action="/start_general_scrape" method="POST">
+            <button class="btn" type="submit">Skript ausführen</button>
+            </form>
+
+            <h3>Gehe zu:</h3>         
+            <form action="/p3_general_result" type="submit">
+                <button class="btn">Resultat</button>
+            </form>
+    </form> 
+    </main>
+
+<%- include('includes/end.ejs') %>

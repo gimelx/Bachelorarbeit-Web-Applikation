@@ -1,0 +1,28 @@
+<%- include('includes/head.ejs') %>
+</head>
+
+<body>
+    <%- include('includes/navigation.ejs') %>
+    <h1>Resultat</h1>
+    <main>
+        <h3>Download:</h3>
+        <form action="/downloadjson" method="POST">
+            <button class="btn" type="submit">Herunterladen des JSON-Files</button>
+        </form>
+
+        <!-- <h3>Dimensionen zuordnen:</h3>
+        <p>Hier ein Beispiel:
+            "author_name" und "author_institution" wird zur Dimensionen (z.B. Autor) hinzugefügt.
+        </p>
+        <br>
+        <br> -->
+        <h3>Gehe zu:</h3>
+        <form action="/p4_load_dblp">
+            <button class="btn" type="submit">Laden in Datenbank</button>
+        </form>
+
+        
+    </main>
+   
+
+<%- include('includes/end.ejs') %>

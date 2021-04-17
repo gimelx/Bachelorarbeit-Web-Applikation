@@ -1,0 +1,125 @@
+<%- include('includes/head.ejs') %>
+</head>
+
+    
+
+<body>
+    <%- include('includes/navigation.ejs') %>
+    <h1>Dataselection-DBLP</h1>
+    <main>        
+       <!--  <p>
+            Für das Dblp-Scraping können sie für "Meta-tag" folgende Werte auswählen: titleTag, yearTag, authorTag, urlTag.
+        </p> -->
+            <script> 
+                document.getElementById("alert").addEventListener("click", myFunction);
+                document.getElementById("attrButon").addEventListener("click", addTextField);
+
+                function myFunction() {
+                alert('Scraping-Process has started.');
+                }
+
+                function addTextField() {
+                    /* alert('button func'); */
+                    
+                    if(document.getElementById("attr1").style.visibility =="hidden"){
+                        document.getElementById("attr1").style.visibility = "visible";
+                        
+                    }else if(document.getElementById("attr2").style.visibility =="hidden"){
+                        console.log('loop 2')
+                        document.getElementById("attr2").style.visibility = "visible";
+                        
+                    }else{
+                        document.getElementById("attr3").style.visibility = "visible";
+                        
+                    }
+                    
+                }
+                
+
+            </script>
+
+            <!-- <form action="/p2_dblp_post" method="POST" >
+                <label for="metatag">Meta-tag:
+                <input id="metatag" name="metatag">
+                </label>
+                <label id="attr1" for="attr1" style = "visibility: hidden;">Attribut 1: 
+                <input name="attr1">
+                </label>
+                <label id="attr2" for="attr2" style = "visibility: hidden;">Attribut 2: 
+                <input name="attr2">
+                </label>
+                <label id="attr3" for="attr3" style = "visibility: hidden;">Attribut 3: 
+                <input name="attr3">
+                </label>
+                <br>
+                <button id="attrButon" onclick="addTextField();" type="button">Attribut hinzufügen</button>
+                <br>
+                <br>
+                <button class="btn" type="submit">Zu Skript hinzufügen</button>
+            </form> -->  
+            <p>
+                Starten Sie den Scrape-Vorgang:
+            </p>
+            <form action="/start_dblp_scrape" method="POST">
+            <button class="btn" type="submit">Skript ausführen</button>
+            </form>
+            <p>
+                Dies kann einige Minuten dauern. Überwachen sie den Vorgang zur Kontrolle auf der Konsole.
+            </p>
+            <!-- <form>
+                <label for="meta-tag">Meta-tag:
+                <input id="meta-tag" name="meta-tag">
+                </label>
+                <label for="zname">Zuname: 
+                <input id="zname" name="zname">
+                </label>
+            </form>  
+            <br>
+            <button>Attribut hinzufügen</button> -->
+            <br> 
+            <h3>Gehe zu:</h3>         
+            <form action="p3_result_dblp" type="submit">
+                <button class="btn">Zeige Resultat</button>
+            </form>
+            <br>
+            <br>
+            <br>
+        <!-- <table>
+            <tr>
+                <th>Tag</th>
+                <th>Attribute</th>
+              </tr>
+              <tr>
+                <td><div class="form-control">
+                    <label for="description">tag 1</label>
+                    <textarea name="description" id="description" rows="1"></textarea>
+                </div></td>
+                <td><div class="form-control">
+                    <label for="description">attr 1</label>
+                    <textarea name="description" id="description" rows="1"></textarea>
+                </div></td>
+                
+              </tr>
+              <tr>
+                <td><div class="form-control">
+                    <label for="description">tag 2</label>
+                    <textarea name="description" id="description" rows="1"></textarea>
+                </div></td>
+                <td><div class="form-control">
+                    <label for="description">attr 2</label>
+                    <textarea name="description" id="description" rows="1"></textarea>
+                </div></td>
+                
+              </tr>
+            
+
+        </table> -->
+            
+            
+
+        </form>
+    </main>
+    
+</body>
+
+</html>

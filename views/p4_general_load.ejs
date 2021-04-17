@@ -1,0 +1,61 @@
+<%- include('includes/head.ejs') %>
+</head>
+
+<body>
+    <%- include('includes/navigation.ejs') %>
+    <h1>General Load</h1>
+
+    <h1>Laden in MySQL</h1>
+    <main>
+        <p>
+            Öffnen Sie die MySql-Workbench und erstellen sie eine Datenbank mit folgenden Eigenschaften:
+        </p>
+        <p>
+            host: "localhost",
+            user: "root",
+            password: "root",
+            database: "general-scraping",
+            port: "3306"
+        </p>
+        <br>
+        <form action="/create_table_general" method="POST" >
+            <label for="create-general" >Query Code(Mit Beispielcode):</label>
+            <br>
+            <textarea id="create-general" name="create-general" cols="130" rows="12">
+CREATE TABLE IF NOT EXISTS products(
+TITLE TEXT,    
+ORIGINALPRICE INT,
+RELEASEDATE INT, 
+LINK TEXT, 
+);
+            </textarea>
+            <button class="btn" type="submit">Abspeichern</button>
+        </form>
+        <br>
+        <br>  
+        <form action="/execute_general_table" method="POST">
+            <button class="btn" type="submit">Ausführen</button>
+        </form>    
+        <br>
+        <!-- <h3>Gehe zu:</h3>
+
+        <table style="border-radius: 10;">
+            <tr>
+                <td>
+                    <form action="">
+                        <button class="btn" type="submit">Zusatzskripte</button>
+                    </form>
+                </td>
+                <td>
+                    <form action="">
+                        <button class="btn" type="submit">MySQL Transformationen</button>
+                    </form>
+                </td>
+             
+            </tr>
+        </table> -->
+
+        
+    </main>
+
+<%- include('includes/end.ejs') %>

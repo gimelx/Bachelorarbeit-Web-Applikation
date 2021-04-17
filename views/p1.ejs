@@ -1,0 +1,29 @@
+<%- include('includes/head.ejs') %>
+</head>
+
+<body>
+    <%- include('includes/navigation.ejs') %>
+    <!-- <h1>Datasource</h1> -->
+    <h2>Bitte wählen Sie den allgemeinen Prozess oder den standard Dblp-Prozess:</h2>
+    <h3>
+        Beachten Sie, dass die Navigationsleiste nur für den Dblp-Prozess funktioniert!
+    </h3>
+    <main>
+        <form class="input1_form" action="/p1" method="POST">
+
+            <button class="btn" type="submit">Allgemeiner Prozess</button> 
+            <br>
+            <br>
+            <br>
+        
+        </form>
+        <form action="/p2_dataselection_dblp">
+            <button class="btn" type="submit">DBLP-Prozess</button>
+        </form>
+
+        
+    </main>
+   
+
+<%- include('includes/end.ejs') %>
+

@@ -1,0 +1,24 @@
+<div class="backdrop"></div>
+<header class="main-header">
+    <button id="side-menu-toggle">Menu</button>
+    <nav class="main-header__nav">
+        <ul class="main-header__item-list">
+            <li class="main-header__item">
+                <a class="<%= path === '/' ? 'active' : '' %>" href="/">Datasource</a>
+            </li>
+            <li class="main-header__item">
+                <a class="<%= path === '/p2' || path === '/p2_dataselection_dblp' ? 'active' : '' %>" href="/p2_dataselection_dblp">Dataselection</a>
+            </li>
+            <li class="main-header__item">
+                <a class="<%= path === '/p3_result_dblp' ? 'active' : '' %>" href="/p3_result_dblp">Resultat</a>
+            </li>
+            <li class="main-header__item">
+                <a class="<%= path === '/p4_load_dblp' ? 'active' : '' %>" href="/p4_load_dblp">Laden</a>
+            </li>
+            <li class="main-header__item">
+                <a class="<%= path === '/transformations_dblp' ? 'active' : '' %>" href="/transformations_dblp">Transformation
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>

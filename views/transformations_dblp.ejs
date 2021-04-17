@@ -1,0 +1,60 @@
+<%- include('includes/head.ejs') %>
+</head>
+
+<body>
+    <%- include('includes/navigation.ejs') %>
+    <h1>Transformationen-DBLP</h1>
+    <main>
+        <p>
+            Führen sie die Skripte von oben nach unen aus!
+        </p>
+            <p>
+            Nach jedem Skript können Sie die Resultate in ihrer Sql-Workbench kontrollieren("Refresh All").
+        </p>
+        
+
+        <form action="/transformation1" method="POST">
+            <button class="btn" type="submit">Transformation 1</button>
+        </form>
+        <br>
+        <br>
+        <form action="/transformation2" method="POST">
+            <button class="btn" type="submit">Transformation 2 : Fact Table</button>
+        </form>
+        <br>
+        <br>
+        <h3>Verschiedene Queries:</h3>
+        <form action="/query_dblp" method="POST">
+            <button class="btn" type="submit">Standard Queries ausführen</button>
+        </form>
+        <br>
+        <br>
+        <p>
+            Sie haben die Möglichkeit eigene Sql-Queries im Feld unterhalb auszufürhen.
+            Stellen Sie vor dem betätigen des Buttons sicher, dass der Code fehlerfrei ist. 
+        </p>
+        <form action="/personal_query" method="POST" >
+            <label for="inputquery" >Query Code(Mit Beispielcode):</label>
+            <br>
+            <textarea id="inputquery" name="inputquery" cols="130" rows="12">
+                create view 3_year_continent_africa_05_19 as (
+                select Year, continent as Continent, count(distinct f.doi) as n_paper, count(distinct author_id) as n_author
+                from f_dblp f
+                    inner join d_paper dpa on f.doi = dpa.doi
+                    inner join d_outlet dou on f.outlet_id = dou.outlet_id
+                    inner join d_institution din on f.institution_id = din.institution_id
+                    inner join d_country dco on din.institution_country_id = dco.country_id
+                where year between 2005 and 2019 and continent = 'Africa'
+                
+                group by Year, Continent);
+            </textarea>
+            <button class="btn" type="submit">Abspeichern</button>
+        </form>
+        <br>
+        <br>  
+        <form action="/execute_personal_query" method="POST">
+            <button class="btn" type="submit">Ausführen</button>
+        </form>    
+    </main>
+
+<%- include('includes/end.ejs') %>
