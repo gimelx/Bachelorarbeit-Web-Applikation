@@ -1,0 +1,2324 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+<inproceedings mdate="2017-05-20" key="conf/er/Tari92">
+<author>Zahir Tari</author>
+<title>A Design Methodology for Object Oriented Databases.</title>
+<pages>389-405</pages>
+<year>1992</year>
+<booktitle>ER</booktitle>
+<url>db/conf/er/er92.html#Tari92</url>
+<crossref>conf/er/92</crossref>
+<cdrom>er92/ER92-P389.pdf</cdrom>
+<ee>https://doi.org/10.1007/3-540-56023-8_24</ee>
+<cite>conf/vldb/AlbanoGO91</cite>
+<cite>conf/dood/AtkinsonBDDMZ89</cite>
+<cite>conf/vldb/BouzeghoubM91</cite>
+<cite>conf/db-workshops/Brodie82</cite>
+<cite>books/aw/kimL89/BretlMOPSSWW89</cite>
+<cite>journals/tods/Chen76</cite>
+<cite>journals/tkde/Deux90</cite>
+<cite>journals/csur/GallaireMN84</cite>
+<cite>journals/tods/HammerM81</cite>
+<cite>conf/er/HohensteinH91</cite>
+<cite>journals/csur/HullK87</cite>
+<cite>conf/dasfaa/HwangL91</cite>
+<cite>journals/tois/KingM85</cite>
+<cite>conf/er/JungclausSH91</cite>
+<cite>conf/er/Kilian91</cite>
+<cite>journals/tkde/KimGBW90</cite>
+<cite>conf/vldb/LecluseR89</cite>
+<cite>conf/vldb/MylopoulosW80</cite>
+<cite>conf/er/NachoukiCB91</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/db-workshops/Reiter82</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+<article mdate="2019-08-20" key="journals/sosym/TekinerdoganA19">
+<author>Bedir Tekinerdogan</author>
+<author>Ethem Arkin</author>
+<title>ParDSL: a domain-specific language framework for supporting deployment of parallel algorithms.</title>
+<pages>2907-2935</pages>
+<year>2019</year>
+<volume>18</volume>
+<journal>Software and Systems Modeling</journal>
+<number>5</number>
+<ee type="oa">https://link.springer.com/article/10.1007%2Fs10270-004-0075-9</ee>
+<url>db/journals/sosym/sosym18.html#TekinerdoganA19</url>
+</article><article mdate="2019-08-19" key="journals/sosym/AbdallahHJ15">
+<author>Rouwaida Abdallah</author>
+<author>Lo&iuml;c H&eacute;lou&euml;t</author>
+<author>Claude Jard</author>
+<title>Distributed implementation of message sequence charts.</title>
+<pages>1029-1048</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>Software and Systems Modeling</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10270-013-0357-1</ee>
+<url>db/journals/sosym/sosym14.html#AbdallahHJ15</url>
+</article><article mdate="2017-05-28" key="journals/tsc/Zhang13">
+<author>Liang-Jie Zhang</author>
+<title>Editorial: Farewell and introduction to the new editor-in-chief.</title>
+<pages>1</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2013.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2013.16</ee>
+<url>db/journals/tsc/tsc6.html#Zhang13</url>
+</article><article mdate="2018-08-27" key="journals/tsc/KumaraHCK17">
+<author>Indika Kumara</author>
+<author>Jun Han 0004</author>
+<author>Alan W. Colman</author>
+<author>Malinda Kapuruge</author>
+<title>Software-Defined Service Networking: Performance Differentiation in Shared Multi-Tenant Cloud Applications.</title>
+<pages>9-22</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2016.2594061</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2594061</ee>
+<url>db/journals/tsc/tsc10.html#KumaraHCK17</url>
+</article><article mdate="2019-06-02" key="journals/tsc/HeZDM18">
+<author orcid="0000-0002-7554-3638">Keqing He</author>
+<author>Liang-Jie Zhang</author>
+<author orcid="0000-0001-6872-8821">Schahram Dustdar</author>
+<author orcid="0000-0003-4239-2009">Yutao Ma</author>
+<title>Guest Editorial: Cloud Services Meet Big Data.</title>
+<pages>599-601</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2018.2837699</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2018.2837699</ee>
+<ee>https://www.wikidata.org/entity/Q60484956</ee>
+<url>db/journals/tsc/tsc11.html#HeZDM18</url>
+</article><article mdate="2018-11-02" key="journals/tsc/JiangCWL18">
+<author orcid="0000-0002-3703-121X">Chunxiao Jiang</author>
+<author orcid="0000-0002-3227-4562">Yan Chen 0007</author>
+<author>Qi Wang</author>
+<author orcid="0000-0001-5469-5811">K. J. Ray Liu</author>
+<title>Data-Driven Auction Mechanism Design in IaaS Cloud Computing.</title>
+<pages>743-756</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2015.2464810</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2464810</ee>
+<url>db/journals/tsc/tsc11.html#JiangCWL18</url>
+</article><article mdate="2019-01-07" key="journals/tsc/LiangWL09">
+<author>Qianhui Althea Liang</author>
+<author>Xindong Wu 0001</author>
+<author orcid="0000-0002-5326-411X">Hoong Chuin Lau</author>
+<title>Optimizing Service Systems Based on Application-Level QoS.</title>
+<pages>108-121</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2009.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2009.13</ee>
+<url>db/journals/tsc/tsc2.html#LiangWL09</url>
+</article><article mdate="2019-08-15" key="journals/tsc/GarraghanOYMX19">
+<author orcid="0000-0002-7103-2515">Peter Garraghan</author>
+<author>Xue Ouyang</author>
+<author>Renyu Yang</author>
+<author>David McKee 0001</author>
+<author>Jie Xu 0007</author>
+<title>Straggler Root-Cause and Impact Analysis for Massive-scale Virtualized Cloud Datacenters.</title>
+<pages>91-104</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2016.2611578</ee>
+<url>db/journals/tsc/tsc12.html#GarraghanOYMX19</url>
+</article><article mdate="2017-07-07" key="journals/tsc/YangXRL14">
+<author>Ping Yang 0002</author>
+<author>Xing Xie 0002</author>
+<author>Indrakshi Ray</author>
+<author>Shiyong Lu</author>
+<title>Satisfiability Analysis of Workflows with Control-Flow Patterns and Authorization Constraints.</title>
+<pages>237-251</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2013.31</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2013.31</ee>
+<url>db/journals/tsc/tsc7.html#YangXRL14</url>
+</article><article mdate="2017-11-29" key="journals/tsc/CaoWFYD17">
+<author>Bin Cao 0004</author>
+<author>Jiaxing Wang</author>
+<author>Jing Fan</author>
+<author>Jianwei Yin</author>
+<author>Tianyang Dong</author>
+<title>Querying Similar Process Models Based on the Hungarian Algorithm.</title>
+<pages>121-135</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2016.2597143</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2597143</ee>
+<url>db/journals/tsc/tsc10.html#CaoWFYD17</url>
+</article><article mdate="2018-02-19" key="journals/tsc/CaglarSG18">
+<author>Faruk Caglar</author>
+<author>Shashank Shekhar</author>
+<author>Aniruddha S. Gokhale</author>
+<title>iTune: Engineering the Performance of Xen Hypervisor via Autonomous and Dynamic Scheduler Reconfiguration.</title>
+<pages>103-116</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2016.2538234</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2538234</ee>
+<url>db/journals/tsc/tsc11.html#CaglarSG18</url>
+</article><article mdate="2019-09-25" key="journals/tsc/JiangNSRKZL19">
+<author orcid="0000-0001-8674-4948">He Jiang</author>
+<author>Liming Nie</author>
+<author>Zeyi Sun</author>
+<author>Zhilei Ren</author>
+<author>Weiqiang Kong</author>
+<author orcid="0000-0002-6272-4069">Tao Zhang 0001</author>
+<author orcid="0000-0002-9082-3208">Xiapu Luo</author>
+<title>ROSF: Leveraging Information Retrieval and Supervised Learning for Recommending Code Snippets.</title>
+<pages>34-46</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2016.2592909</ee>
+<url>db/journals/tsc/tsc12.html#JiangNSRKZL19</url>
+</article><article mdate="2017-06-26" key="journals/tsc/PengH17">
+<author>Kuan-Li Peng</author>
+<author>Chin-Yu Huang</author>
+<title>Reliability Analysis of On-Demand Service-Based Software Systems Considering Failure Dependencies.</title>
+<pages>423-435</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2015.2473843</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2473843</ee>
+<url>db/journals/tsc/tsc10.html#PengH17</url>
+</article><article mdate="2017-05-28" key="journals/tsc/WeiPC12">
+<author>Zhou Wei</author>
+<author>Guillaume Pierre</author>
+<author>Chi-Hung Chi</author>
+<title>CloudTPS: Scalable Transactions for Web Applications in the Cloud.</title>
+<pages>525-539</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2011.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.18</ee>
+<url>db/journals/tsc/tsc5.html#WeiPC12</url>
+</article><article mdate="2017-05-28" key="journals/tsc/Evermann16">
+<author>Joerg Evermann</author>
+<title>Scalable Process Discovery Using Map-Reduce.</title>
+<pages>469-481</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2014.2367525</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2367525</ee>
+<url>db/journals/tsc/tsc9.html#Evermann16</url>
+</article><article mdate="2018-11-02" key="journals/tsc/0003JYM16">
+<author orcid="0000-0002-4324-3382">Wei Song 0003</author>
+<author>Hans-Arno Jacobsen</author>
+<author>Chunyang Ye</author>
+<author orcid="0000-0001-7970-1384">Xiaoxing Ma</author>
+<title>Process Discovery from Dependence-Complete Event Logs.</title>
+<pages>714-727</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2015.2426181</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2426181</ee>
+<url>db/journals/tsc/tsc9.html#0003JYM16</url>
+</article><article mdate="2017-05-28" key="journals/tsc/PaliwalSVXA12">
+<author>Aabhas V. Paliwal</author>
+<author>Basit Shafiq</author>
+<author>Jaideep Vaidya</author>
+<author>Hui Xiong</author>
+<author>Nabil R. Adam</author>
+<title>Semantics-Based Automated Service Discovery.</title>
+<pages>260-275</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2011.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.19</ee>
+<url>db/journals/tsc/tsc5.html#PaliwalSVXA12</url>
+</article><article mdate="2017-07-26" key="journals/tsc/ChatterjeeLM17">
+<author>Subarna Chatterjee</author>
+<author>Ranjana Ladia</author>
+<author orcid="0000-0002-2467-6414">Sudip Misra</author>
+<title>Dynamic Optimal Pricing for Heterogeneous Service-Oriented Architecture of Sensor-Cloud Infrastructure.</title>
+<pages>203-216</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2015.2453958</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2453958</ee>
+<url>db/journals/tsc/tsc10.html#ChatterjeeLM17</url>
+</article><article mdate="2017-05-28" key="journals/tsc/WadaSYO12">
+<author>Hiroshi Wada</author>
+<author>Junichi Suzuki</author>
+<author>Yuji Yamano</author>
+<author>Katsuya Oba</author>
+<title>E&#179;: A Multiobjective Optimization Framework for SLA-Aware Service Composition.</title>
+<pages>358-372</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2011.6</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.6</ee>
+<url>db/journals/tsc/tsc5.html#WadaSYO12</url>
+</article><article mdate="2018-11-14" key="journals/tsc/JarmaBAVC13">
+<author>Yesid Jarma</author>
+<author>Keerthana Boloor</author>
+<author>Marcelo Dias de Amorim</author>
+<author>Yannis Viniotis</author>
+<author>Robert D. Callaway</author>
+<title>Dynamic Service Contract Enforcement in Service-Oriented Networks.</title>
+<pages>130-142</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2011.45</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.45</ee>
+<ee>https://www.wikidata.org/entity/Q57428924</ee>
+<url>db/journals/tsc/tsc6.html#JarmaBAVC13</url>
+</article><article mdate="2018-09-13" key="journals/tsc/00020WLZLL18">
+<author orcid="0000-0003-2587-8517">Ke Xu 0002</author>
+<author orcid="0000-0002-6805-9565">Tong Li 0014</author>
+<author>Haiyang Wang</author>
+<author>Haitao Li</author>
+<author>Wei Zhu</author>
+<author orcid="0000-0001-6592-1984">Jiangchuan Liu</author>
+<author>Song Lin</author>
+<title>Errata to "Modeling, Analysis, and Implementation of Universal Acceleration Platform Across Online Video Sharing Sites".</title>
+<pages>740</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2018.2849421</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2018.2849421</ee>
+<url>db/journals/tsc/tsc11.html#00020WLZLL18</url>
+</article><article mdate="2019-10-19" key="journals/tsc/BelhajjameEP14">
+<author>Khalid Belhajjame</author>
+<author orcid="0000-0002-3711-0778">Suzanne M. Embury</author>
+<author orcid="0000-0003-2008-6617">Norman W. Paton</author>
+<title>Verification of Semantic Web Service Annotations Using Ontology-Based Partitioning.</title>
+<pages>515-528</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2013.4</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2013.4</ee>
+<ee>https://www.wikidata.org/entity/Q29011560</ee>
+<url>db/journals/tsc/tsc7.html#BelhajjameEP14</url>
+</article><article mdate="2019-07-05" key="journals/tsc/RanchalBAO19">
+<author orcid="0000-0003-4851-3959">Rohit Ranchal</author>
+<author orcid="0000-0003-3803-8672">Bharat K. Bhargava</author>
+<author>Pelin Angin</author>
+<author>Lotfi Ben Othmane</author>
+<title>EPICS: A Framework for Enforcing Security Policies in Composite Web Services.</title>
+<pages>415-428</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2018.2797277</ee>
+<url>db/journals/tsc/tsc12.html#RanchalBAO19</url>
+</article><article mdate="2018-11-14" key="journals/tsc/Guerrero-Contreras17">
+<author orcid="0000-0002-7509-3673">Gabriel Guerrero-Contreras</author>
+<author>Jos&eacute; Luis Garrido</author>
+<author orcid="0000-0003-1998-5826">Sara Balderas-D&iacute;az</author>
+<author>Carlos Rodr&iacute;guez-Dom&iacute;nguez</author>
+<title>A Context-Aware Architecture Supporting Service Availability in Mobile Cloud Computing.</title>
+<pages>956-968</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSC.2016.2540629</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2540629</ee>
+<ee>https://www.wikidata.org/entity/Q57887830</ee>
+<url>db/journals/tsc/tsc10.html#Guerrero-Contreras17</url>
+</article><article mdate="2017-05-28" key="journals/tsc/BabinAP17">
+<author>Guillaume Babin</author>
+<author>Yamine A&iuml;t Ameur</author>
+<author>Marc Pantel</author>
+<title>Web Service Compensation at Runtime: Formal Modeling and Verification Using the Event-B Refinement and Proof Based Formal Method.</title>
+<pages>107-120</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2016.2594782</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2594782</ee>
+<url>db/journals/tsc/tsc10.html#BabinAP17</url>
+</article><article mdate="2019-09-25" key="journals/tsc/IslamRMQ16">
+<author orcid="0000-0002-5778-4366">Mohammad A. Islam 0001</author>
+<author>Shaolei Ren</author>
+<author>A. Hasan Mahmud</author>
+<author>Gang Quan</author>
+<title>Online Energy Budgeting for Cost Minimization in Virtualized Data Center.</title>
+<pages>421-432</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2015.2390231</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2390231</ee>
+<url>db/journals/tsc/tsc9.html#IslamRMQ16</url>
+</article><article mdate="2018-02-19" key="journals/tsc/HwangP18">
+<author orcid="0000-0003-1249-9614">Inkwon Hwang</author>
+<author>Massoud Pedram</author>
+<title>Hierarchical, Portfolio Theory-Based Virtual Machine Consolidation in a Compute Cloud.</title>
+<pages>63-77</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2016.2531672</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2531672</ee>
+<url>db/journals/tsc/tsc11.html#HwangP18</url>
+</article><article mdate="2018-08-11" key="journals/tsc/LiMYG18">
+<author orcid="0000-0001-5597-9306">Xiaoyong Li 0003</author>
+<author orcid="0000-0002-7199-5047">Huadong Ma</author>
+<author>Wenbin Yao</author>
+<author>Xiaolin Gui</author>
+<title>Data-Driven and Feedback-Enhanced Trust Computing Pattern for Large-Scale Multi-Cloud Collaborative Services.</title>
+<pages>671-684</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2015.2475743</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2475743</ee>
+<url>db/journals/tsc/tsc11.html#LiMYG18</url>
+</article><article mdate="2017-05-28" key="journals/tsc/VerbovenVB15">
+<author>Sam Verboven</author>
+<author>Kurt Vanmechelen</author>
+<author>Jan Broeckhove</author>
+<title>Network Aware Scheduling for Virtual Machine Workloads with Interference Models.</title>
+<pages>617-629</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2014.2312912</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2312912</ee>
+<url>db/journals/tsc/tsc8.html#VerbovenVB15</url>
+</article><article mdate="2019-10-19" key="journals/tsc/YeMBD16">
+<author>Zhen Ye</author>
+<author orcid="0000-0001-7513-3789">Sajib Mistry</author>
+<author orcid="0000-0003-1254-8092">Athman Bouguettaya</author>
+<author orcid="0000-0002-7033-5688">Hai Dong</author>
+<title>Long-Term QoS-Aware Cloud Service Composition Using Multivariate Time Series Analysis.</title>
+<pages>382-393</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2014.2373366</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2373366</ee>
+<ee>https://www.wikidata.org/entity/Q57843035</ee>
+<url>db/journals/tsc/tsc9.html#YeMBD16</url>
+</article><article mdate="2018-07-10" key="journals/tsc/ChenHLWLH18">
+<author orcid="0000-0002-0960-4447">Min Chen 0003</author>
+<author>Yixue Hao</author>
+<author>Chin-Feng Lai</author>
+<author orcid="0000-0002-9433-7725">Di Wu 0001</author>
+<author orcid="0000-0001-5617-1659">Yong Li 0008</author>
+<author>Kai Hwang 0001</author>
+<title>Opportunistic Task Scheduling over Co-Located Clouds in Mobile Environment.</title>
+<pages>549-561</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2016.2589247</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2589247</ee>
+<url>db/journals/tsc/tsc11.html#ChenHLWLH18</url>
+</article><article mdate="2017-05-28" key="journals/tsc/MaWHHSY16">
+<author>You Ma</author>
+<author>Shangguang Wang</author>
+<author>Patrick C. K. Hung</author>
+<author>Ching-Hsien Hsu</author>
+<author>Qibo Sun</author>
+<author>Fangchun Yang</author>
+<title>A Highly Accurate Prediction Algorithm for Unknown Web Service QoS Values.</title>
+<pages>511-523</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2015.2407877</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2407877</ee>
+<url>db/journals/tsc/tsc9.html#MaWHHSY16</url>
+</article><article mdate="2019-04-02" key="journals/tsc/YuNAMWL15">
+<author>Yong Yu 0002</author>
+<author>Jianbing Ni</author>
+<author orcid="0000-0003-2068-9530">Man Ho Au</author>
+<author>Yi Mu 0001</author>
+<author>Boyang Wang</author>
+<author>Hui Li 0006</author>
+<title>Comments on a Public Auditing Mechanism for Shared Cloud Data Service.</title>
+<pages>998-999</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSC.2014.2355201</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2355201</ee>
+<url>db/journals/tsc/tsc8.html#YuNAMWL15</url>
+</article><article mdate="2017-05-28" key="journals/tsc/ShapiraC16">
+<author>Gwen Shapira</author>
+<author>Yanpei Chen</author>
+<title>Common Pitfalls of Benchmarking Big Data Systems.</title>
+<pages>152-160</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2015.2494595</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2494595</ee>
+<url>db/journals/tsc/tsc9.html#ShapiraC16</url>
+</article><article mdate="2019-09-16" key="journals/tsc/CarverCCY16">
+<author>Doris L. Carver</author>
+<author orcid="0000-0001-7726-6235">W. K. Chan 0001</author>
+<author>Carl K. Chang</author>
+<author>Hongji Yang</author>
+<title>Editorial: Software Engineering and Applications for Cloud-Based Mobile Systems.</title>
+<pages>742-744</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2016.2601679</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2601679</ee>
+<url>db/journals/tsc/tsc9.html#CarverCCY16</url>
+</article><article mdate="2018-05-29" key="journals/tsc/EliasMPW17">
+<author>Jocelyne Elias</author>
+<author>Fabio Martignon</author>
+<author>Stefano Paris</author>
+<author>Jianping Wang 0001</author>
+<title>Efficient Orchestration Mechanisms for Congestion Mitigation in NFV: Models and Algorithms.</title>
+<pages>534-546</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2015.2498176</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2498176</ee>
+<url>db/journals/tsc/tsc10.html#EliasMPW17</url>
+</article>
+<article mdate="2018-08-01" key="journals/tsc/PengWDZ18">
+<author orcid="0000-0002-4395-6323">Gongzhuang Peng</author>
+<author>Hongwei Wang 0001</author>
+<author>Jietao Dong</author>
+<author>Heming Zhang</author>
+<title>Knowledge-Based Resource Allocation for Collaborative Simulation Development in a Multi-Tenant Cloud Computing Environment.</title>
+<pages>306-317</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2016.2518161</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2518161</ee>
+<url>db/journals/tsc/tsc11.html#PengWDZ18</url>
+</article><article mdate="2017-05-28" key="journals/tsc/MusaevWP15">
+<author>Aibek Musaev</author>
+<author>De Wang</author>
+<author>Calton Pu</author>
+<title>LITMUS: A Multi-Service Composition System for Landslide Detection.</title>
+<pages>715-726</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2014.2376558</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2376558</ee>
+<url>db/journals/tsc/tsc8.html#MusaevWP15</url>
+</article><article mdate="2019-04-12" key="journals/tsc/WangYWY18">
+<author>Hongbing Wang</author>
+<author>Chao Yu</author>
+<author orcid="0000-0002-1511-7266">Lei Wang 0042</author>
+<author>Qi Yu 0001</author>
+<title>Effective BigData-Space Service Selection over Trust and Heterogeneous QoS Preferences.</title>
+<pages>644-657</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2015.2480393</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2480393</ee>
+<url>db/journals/tsc/tsc11.html#WangYWY18</url>
+</article><article mdate="2017-12-21" key="journals/tsc/ZhengCLX16">
+<author orcid="0000-0002-6095-6325">Yujun Zheng 0001</author>
+<author>Qing-Zhang Chen</author>
+<author>Haifeng Ling</author>
+<author>Jin-Yun Xue</author>
+<title>Rescue Wings: Mobile Computing and Active Services Support for Disaster Rescue.</title>
+<pages>594-607</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2015.2401598</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2401598</ee>
+<url>db/journals/tsc/tsc9.html#ZhengCLX16</url>
+</article><article mdate="2019-09-16" key="journals/tsc/LuNWF15">
+<author>Xixi Lu</author>
+<author>Marijn Nagelkerke</author>
+<author>Dennis van de Wiel</author>
+<author orcid="0000-0002-1993-9363">Dirk Fahland</author>
+<title>Discovering Interacting Artifacts from ERP Systems.</title>
+<pages>861-873</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSC.2015.2474358</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2474358</ee>
+<url>db/journals/tsc/tsc8.html#LuNWF15</url>
+</article><article mdate="2017-11-28" key="journals/tsc/Liu16a">
+<author>Ling Liu 0001</author>
+<title>Services Computing: From Cloud Services, Mobile Services to Internet of Services.</title>
+<pages>661-663</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2016.2602898</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2602898</ee>
+<url>db/journals/tsc/tsc9.html#Liu16a</url>
+</article><article mdate="2019-09-25" key="journals/tsc/ShengXCZ19">
+<author orcid="0000-0002-3326-4147">Quan Z. Sheng</author>
+<author>Xiaofei Xu</author>
+<author>Rong N. Chang</author>
+<author>Liang-Jie Zhang</author>
+<title>Guest Editorial: Data-Centric Big Services.</title>
+<pages>341-342</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2019.2915691</ee>
+<url>db/journals/tsc/tsc12.html#ShengXCZ19</url>
+</article><article mdate="2018-01-15" key="journals/tsc/SongXJZH17">
+<author orcid="0000-0002-4324-3382">Wei Song 0003</author>
+<author>Xiaoxu Xia</author>
+<author>Hans-Arno Jacobsen</author>
+<author>Pengcheng Zhang</author>
+<author>Hao Hu 0001</author>
+<title>Efficient Alignment Between Event Logs and Process Models.</title>
+<pages>136-149</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2016.2601094</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2601094</ee>
+<url>db/journals/tsc/tsc10.html#SongXJZH17</url>
+</article><article mdate="2017-09-16" key="journals/tsc/LiWKLZ13">
+<author>Juan Li</author>
+<author>Hui Wang</author>
+<author>Samee Ullah Khan</author>
+<author>Qingrui Li</author>
+<author orcid="0000-0002-3090-1059">Albert Y. Zomaya</author>
+<title>A Fully Distributed Scheme for Discovery of Semantic Relationships.</title>
+<pages>457-469</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2012.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2012.16</ee>
+<url>db/journals/tsc/tsc6.html#LiWKLZ13</url>
+</article><article mdate="2017-05-28" key="journals/tsc/YangZQLLL13">
+<author>Yanwu Yang</author>
+<author>Jie Zhang</author>
+<author>Rui Qin</author>
+<author>Juanjuan Li</author>
+<author>Baiyu Liu</author>
+<author>Zhong Liu</author>
+<title>Budget Strategy in Uncertain Environments of Search Auctions: A Preliminary Investigation.</title>
+<pages>168-176</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2011.60</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.60</ee>
+<url>db/journals/tsc/tsc6.html#YangZQLLL13</url>
+</article><article mdate="2019-10-19" key="journals/tsc/BurattinCMS15">
+<author orcid="0000-0002-0837-0183">Andrea Burattin</author>
+<author orcid="0000-0003-2403-8313">Marta Cimitile</author>
+<author>Fabrizio Maria Maggi</author>
+<author>Alessandro Sperduti</author>
+<title>Online Discovery of Declarative Process Models from Event Streams.</title>
+<pages>833-846</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSC.2015.2459703</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2459703</ee>
+<url>db/journals/tsc/tsc8.html#BurattinCMS15</url>
+</article><article mdate="2019-10-17" key="journals/tsc/ZhangLA13">
+<author>Xiuguo Zhang</author>
+<author orcid="0000-0001-9296-9975">Hongbo Liu 0001</author>
+<author>Ajith Abraham</author>
+<title>A Novel Process Network Model for Interacting Context-Aware Web Services.</title>
+<pages>344-357</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2012.6</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2012.6</ee>
+<url>db/journals/tsc/tsc6.html#ZhangLA13</url>
+</article><article mdate="2019-10-19" key="journals/tsc/ChardBCR12">
+<author>Kyle Chard</author>
+<author>Kris Bubendorfer</author>
+<author orcid="0000-0001-9379-3879">Simon Caton</author>
+<author>Omer F. Rana</author>
+<title>Social Cloud Computing: A Vision for Socially Motivated Resource Sharing.</title>
+<pages>551-563</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2011.39</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.39</ee>
+<url>db/journals/tsc/tsc5.html#ChardBCR12</url>
+</article><article mdate="2017-06-15" key="journals/tsc/XuT16">
+<author>Xiaoyong Xu</author>
+<author orcid="0000-0002-2416-4101">Maolin Tang</author>
+<title>A New Approach to the Cloud-Based Heterogeneous MapReduce Placement Problem.</title>
+<pages>862-871</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSC.2015.2433914</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2433914</ee>
+<url>db/journals/tsc/tsc9.html#XuT16</url>
+</article><article mdate="2018-11-14" key="journals/tsc/RussoV17">
+<author orcid="0000-0002-8747-3446">Stefano Russo</author>
+<author>Marco Vieira</author>
+<title>Editorial: Security and Dependability of Cloud Systems and Services.</title>
+<pages>673-674</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2017.2735778</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2017.2735778</ee>
+<ee>https://www.wikidata.org/entity/Q57965483</ee>
+<url>db/journals/tsc/tsc10.html#RussoV17</url>
+</article><article mdate="2017-05-28" key="journals/tsc/WangZWLY15">
+<author>Shangguang Wang</author>
+<author>Zibin Zheng</author>
+<author>Zhengping Wu</author>
+<author>Michael R. Lyu</author>
+<author>Fangchun Yang</author>
+<title>Reputation Measurement and Malicious Feedback Rating Prevention in Web Service Recommendation Systems.</title>
+<pages>755-767</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2014.2320262</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2320262</ee>
+<url>db/journals/tsc/tsc8.html#WangZWLY15</url>
+</article><article mdate="2019-10-19" key="journals/tsc/GaaloulBR10">
+<author orcid="0000-0003-0451-532X">Walid Gaaloul</author>
+<author orcid="0000-0003-0848-5586">Sami Bhiri</author>
+<author>Mohsen Rouached</author>
+<title>Event-Based Design and Runtime Verification of Composite Service Transactional Behavior.</title>
+<pages>32-45</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2010.1</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2010.1</ee>
+<url>db/journals/tsc/tsc3.html#GaaloulBR10</url>
+</article><article mdate="2018-11-02" key="journals/tsc/TjoaJGKGQ11">
+<author orcid="0000-0003-2280-9604">Simon Tjoa</author>
+<author>Stefan Jakoubi</author>
+<author>Gernot Goluch</author>
+<author>Gerhard Kitzler</author>
+<author orcid="0000-0001-9321-4136">Sigrun Goluch</author>
+<author>Gerald Quirchmayr</author>
+<title>A Formal Approach Enabling Risk-Aware Business Process Modeling and Simulation.</title>
+<pages>153-166</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2010.17</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2010.17</ee>
+<url>db/journals/tsc/tsc4.html#TjoaJGKGQ11</url>
+</article><article mdate="2017-07-27" key="journals/tsc/RamacherM15">
+<author>Ren&eacute; Ramacher</author>
+<author orcid="0000-0003-2230-8463">Lars M&ouml;nch</author>
+<title>Service Selection with Runtime Aspects: A Hierarchical Approach.</title>
+<pages>481-493</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2014.2346181</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2346181</ee>
+<url>db/journals/tsc/tsc8.html#RamacherM15</url>
+</article><article mdate="2017-05-28" key="journals/tsc/KritikosP14">
+<author>Kyriakos Kritikos</author>
+<author>Dimitris Plexousakis</author>
+<title>Novel Optimal and Scalable Nonfunctional Service Matchmaking Techniques.</title>
+<pages>614-627</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2013.11</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2013.11</ee>
+<url>db/journals/tsc/tsc7.html#KritikosP14</url>
+</article><article mdate="2017-05-28" key="journals/tsc/YiAK12">
+<author>Sangho Yi</author>
+<author>Artur Andrzejak</author>
+<author>Derrick Kondo</author>
+<title>Monetary Cost-Aware Checkpointing and Migration on Amazon Cloud Spot Instances.</title>
+<pages>512-524</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2011.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.44</ee>
+<url>db/journals/tsc/tsc5.html#YiAK12</url>
+</article><article mdate="2019-11-07" key="journals/tsc/MaLPX19">
+<author orcid="0000-0002-4797-0253">Lichuan Ma</author>
+<author orcid="0000-0002-7343-6302">Xuefeng Liu</author>
+<author orcid="0000-0001-7614-1422">Qingqi Pei</author>
+<author orcid="0000-0003-3545-7863">Yong Xiang 0001</author>
+<title>Privacy-Preserving Reputation Management for Edge Computing Enhanced Mobile Crowdsensing.</title>
+<pages>786-799</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2018.2825986</ee>
+<url>db/journals/tsc/tsc12.html#MaLPX19</url>
+</article><article mdate="2017-05-28" key="journals/tsc/GuXL10">
+<author>Zhifeng Gu</author>
+<author>Bin Xu 0001</author>
+<author>Juan-Zi Li</author>
+<title>Service Data Correlation Modeling and Its Application in Data-Driven Service Composition.</title>
+<pages>279-291</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2010.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2010.22</ee>
+<url>db/journals/tsc/tsc3.html#GuXL10</url>
+</article><article mdate="2018-05-24" key="journals/tsc/HsuJ11">
+<author>Ching-Hsien Hsu</author>
+<author>Hai Jin 0001</author>
+<title>Guest Editorial: Services Composition and Virtualization Technologies.</title>
+<pages>181-182</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2011.50</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.50</ee>
+<url>db/journals/tsc/tsc4.html#HsuJ11</url>
+</article><article mdate="2017-05-28" key="journals/tsc/MillerZZ17">
+<author>John A. Miller</author>
+<author>Hong Zhu</author>
+<author>Jia Zhang</author>
+<title>Guest Editorial: Advances in Web Services Research.</title>
+<pages>5-8</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2016.2619518</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2619518</ee>
+<url>db/journals/tsc/tsc10.html#MillerZZ17</url>
+</article><article mdate="2017-05-28" key="journals/tsc/LeeLW15">
+<author>Jonathan Lee</author>
+<author>Shin-Jie Lee</author>
+<author>Ping-Feng Wang</author>
+<title>A Framework for Composing SOAP, Non-SOAP and Non-Web Services.</title>
+<pages>240-250</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2014.2310213</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2310213</ee>
+<url>db/journals/tsc/tsc8.html#LeeLW15</url>
+</article><article mdate="2019-06-02" key="journals/tsc/LeiLHL15">
+<author>Xinyu Lei</author>
+<author>Xiaofeng Liao</author>
+<author orcid="0000-0001-9610-846X">Tingwen Huang</author>
+<author>Huaqing Li 0001</author>
+<title>Cloud Computing Service: The Caseof Large Matrix Determinant Computation.</title>
+<pages>688-700</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2014.2331694</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2331694</ee>
+<ee>https://www.wikidata.org/entity/Q61891093</ee>
+<url>db/journals/tsc/tsc8.html#LeiLHL15</url>
+</article><article mdate="2018-11-14" key="journals/tsc/WangL11">
+<author orcid="0000-0002-5344-1884">Yan Wang 0002</author>
+<author orcid="0000-0002-5374-7293">Lei Li 0002</author>
+<title>Two-Dimensional Trust Rating Aggregations in Service-Oriented Applications.</title>
+<pages>257-271</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2010.39</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2010.39</ee>
+<ee>https://www.wikidata.org/entity/Q57736325</ee>
+<url>db/journals/tsc/tsc4.html#WangL11</url>
+</article><article mdate="2019-10-19" key="journals/tsc/MiaoMLWLL19">
+<author orcid="0000-0001-5437-3572">Yinbin Miao</author>
+<author>Jianfeng Ma</author>
+<author>Ximeng Liu</author>
+<author>Jian Weng</author>
+<author>Hongwei Li</author>
+<author>Hui Li 0006</author>
+<title>Lightweight Fine-Grained Search Over Encrypted Data in Fog Computing.</title>
+<pages>772-785</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2018.2823309</ee>
+<url>db/journals/tsc/tsc12.html#MiaoMLWLL19</url>
+</article><article mdate="2018-02-19" key="journals/tsc/WhaiduzzamanNG18">
+<author orcid="0000-0003-2822-0657">Md Whaiduzzaman</author>
+<author>Anjum Naveed</author>
+<author>Abdullah Gani</author>
+<title>MobiCoRE: Mobile Device Based Cloudlet Resource Enhancement for Optimal Task Response.</title>
+<pages>144-154</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2016.2564407</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2564407</ee>
+<url>db/journals/tsc/tsc11.html#WhaiduzzamanNG18</url>
+</article><article mdate="2018-09-14" key="journals/tsc/ZhangSWZJ18">
+<author>Yuanyu Zhang</author>
+<author>Yulong Shen</author>
+<author>Hua Wang 0002</author>
+<author orcid="0000-0002-5094-5980">Yanchun Zhang</author>
+<author orcid="0000-0001-9739-1930">Xiaohong Jiang</author>
+<title>On Secure Wireless Communications for Service Oriented Computing.</title>
+<pages>318-328</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2015.2478453</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2478453</ee>
+<url>db/journals/tsc/tsc11.html#ZhangSWZJ18</url>
+</article><article mdate="2017-05-28" key="journals/tsc/SongSS12">
+<author>Yang Song</author>
+<author>Anca Sailer</author>
+<author>Hidayatullah Shaikh</author>
+<title>Hierarchical Online Problem Classification for IT Support Services.</title>
+<pages>345-357</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2011.3</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.3</ee>
+<url>db/journals/tsc/tsc5.html#SongSS12</url>
+</article><article mdate="2019-10-19" key="journals/tsc/ZhengB09">
+<author>George Zheng</author>
+<author orcid="0000-0003-1254-8092">Athman Bouguettaya</author>
+<title>Service Mining on the Web.</title>
+<pages>65-78</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2009.2</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2009.2</ee>
+<url>db/journals/tsc/tsc2.html#ZhengB09</url>
+</article><article mdate="2018-06-10" key="journals/tsc/ZhengTQX17">
+<author>Zheng Zheng 0001</author>
+<author>Kishor S. Trivedi</author>
+<author>Kun Qiu</author>
+<author>Ruofan Xia</author>
+<title>Semi-Markov Models of Composite Web Services for their Performance, Reliability and Bottlenecks.</title>
+<pages>448-460</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2015.2475957</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2475957</ee>
+<url>db/journals/tsc/tsc10.html#ZhengTQX17</url>
+</article><article mdate="2019-09-23" key="journals/tsc/WuCC17">
+<author>Xiaokun Wu 0002</author>
+<author>Bo Cheng 0001</author>
+<author>Junliang Chen</author>
+<title>Collaborative Filtering Service Recommendation Based on a Novel Similarity Computation Method.</title>
+<pages>352-365</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2015.2479228</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2479228</ee>
+<url>db/journals/tsc/tsc10.html#WuCC17</url>
+</article><article mdate="2017-06-09" key="journals/tsc/NarayanR14">
+<author>Akshay Narayan</author>
+<author orcid="0000-0003-0625-5103">Shrisha Rao</author>
+<title>Power-Aware Cloud Metering.</title>
+<pages>440-451</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2013.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2013.22</ee>
+<url>db/journals/tsc/tsc7.html#NarayanR14</url>
+</article><article mdate="2019-08-21" key="journals/tsc/ChenPH19">
+<author orcid="0000-0003-4430-7904">Wuhui Chen</author>
+<author orcid="0000-0002-7554-8180">Incheon Paik</author>
+<author orcid="0000-0002-9903-4862">Patrick C. K. Hung</author>
+<title>Transformation-Based Streaming Workflow Allocation on Geo-Distributed Datacenters for Streaming Big Data Processing.</title>
+<pages>654-668</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2016.2614297</ee>
+<url>db/journals/tsc/tsc12.html#ChenPH19</url>
+</article><article mdate="2017-06-15" key="journals/tsc/ArdagnaDFR16">
+<author orcid="0000-0001-7426-4795">Claudio Agostino Ardagna</author>
+<author orcid="0000-0002-9557-6496">Ernesto Damiani</author>
+<author>Fulvio Frati</author>
+<author>Davide Rebeccani</author>
+<title>A Configuration-Independent Score-Based Benchmark for Distributed Databases.</title>
+<pages>123-137</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2015.2485985</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2485985</ee>
+<url>db/journals/tsc/tsc9.html#ArdagnaDFR16</url>
+</article><article mdate="2018-11-02" key="journals/tsc/ZielinskiSSKKJ12">
+<author>Krzysztof Zielinski</author>
+<author orcid="0000-0003-4101-2115">Tomasz Szydlo</author>
+<author>Robert Szymacha</author>
+<author>Jacek Kosinski</author>
+<author>Joanna Kosinska</author>
+<author>Marcin Jarzab</author>
+<title>Adaptive SOA Solution Stack.</title>
+<pages>149-163</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2011.8</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.8</ee>
+<url>db/journals/tsc/tsc5.html#ZielinskiSSKKJ12</url>
+</article><article mdate="2019-09-16" key="journals/tsc/FanPCXB14">
+<author>Zhe Fan</author>
+<author>Yun Peng</author>
+<author>Byron Choi</author>
+<author orcid="0000-0001-9404-5848">Jianliang Xu</author>
+<author>Sourav S. Bhowmick</author>
+<title>Towards Efficient Authenticated Subgraph Query Service in Outsourced Graph Databases.</title>
+<pages>696-713</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2013.42</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2013.42</ee>
+<url>db/journals/tsc/tsc7.html#FanPCXB14</url>
+</article><article mdate="2018-11-14" key="journals/tsc/FungTHXAD12">
+<author orcid="0000-0001-8423-2906">Benjamin C. M. Fung</author>
+<author>Thomas Trojer</author>
+<author>Patrick C. K. Hung</author>
+<author>Li Xiong 0001</author>
+<author>Khalil Al-Hussaeni</author>
+<author>Rachida Dssouli</author>
+<title>Service-Oriented Architecture for High-Dimensional Private Data Mashup.</title>
+<pages>373-386</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2011.13</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.13</ee>
+<ee>https://www.wikidata.org/entity/Q57086385</ee>
+<url>db/journals/tsc/tsc5.html#FungTHXAD12</url>
+</article><article mdate="2019-10-19" key="journals/tsc/GroefsemaBA18">
+<author orcid="0000-0001-8081-6883">Heerko Groefsema</author>
+<author orcid="0000-0003-3199-1604">Nick van Beest</author>
+<author orcid="0000-0002-0764-2124">Marco Aiello 0001</author>
+<title>A Formal Model for Compliance Verification of Service Compositions.</title>
+<pages>466-479</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2016.2579621</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2579621</ee>
+<ee>https://www.wikidata.org/entity/Q58196505</ee>
+<url>db/journals/tsc/tsc11.html#GroefsemaBA18</url>
+</article><article mdate="2019-09-25" key="journals/tsc/YongFSYCA18">
+<author>Jianming Yong</author>
+<author orcid="0000-0002-4039-891X">Giancarlo Fortino</author>
+<author orcid="0000-0001-5204-7992">Weiming Shen 0001</author>
+<author orcid="0000-0002-7868-5471">Yun Yang 0001</author>
+<author orcid="0000-0002-4501-9739">Kuo-Ming Chao</author>
+<author orcid="0000-0002-0955-6940">Wil M. P. van der Aalst</author>
+<title>Special Issue on Service-Oriented Collaborative Computing and Applications.</title>
+<pages>277-278</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2017.2764559</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2017.2764559</ee>
+<url>db/journals/tsc/tsc11.html#YongFSYCA18</url>
+</article><article mdate="2019-09-25" key="journals/tsc/JinSWNJ16">
+<author>A-Long Jin</author>
+<author>Wei Song</author>
+<author>Ping Wang 0001</author>
+<author orcid="0000-0002-7442-7416">Dusit Niyato</author>
+<author>Peijian Ju</author>
+<title>Auction Mechanisms Toward Efficient Resource Sharing for Cloudlets in Mobile Cloud Computing.</title>
+<pages>895-909</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSC.2015.2430315</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2430315</ee>
+<url>db/journals/tsc/tsc9.html#JinSWNJ16</url>
+</article><article mdate="2017-06-09" key="journals/tsc/KoLL12">
+<author orcid="0000-0003-0804-1176">Ryan K. L. Ko</author>
+<author>Eng Wah Lee</author>
+<author>Stephen Siang Guan Lee</author>
+<title>Business-OWL (BOWL) - A Hierarchical Task Network Ontology for Dynamic Business Process Decomposition and Formulation.</title>
+<pages>246-259</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2011.48</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.48</ee>
+<url>db/journals/tsc/tsc5.html#KoLL12</url>
+</article><article mdate="2017-05-28" key="journals/tsc/HuangLKWS14">
+<author>Jiwei Huang</author>
+<author>Chuang Lin</author>
+<author>Xiangzhen Kong</author>
+<author>Bing Wei</author>
+<author>Xuemin Shen</author>
+<title>Modeling and Analysis of Dependability Attributes for Services Computing Systems.</title>
+<pages>599-613</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2013.8</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2013.8</ee>
+<url>db/journals/tsc/tsc7.html#HuangLKWS14</url>
+</article><article mdate="2017-05-28" key="journals/tsc/Zhang09">
+<author>Liang-Jie Zhang</author>
+<title>TSC Cloud: Community-Driven Innovation Platform.</title>
+<pages>1-2</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2009.9</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2009.9</ee>
+<url>db/journals/tsc/tsc2.html#Zhang09</url>
+</article><article mdate="2019-09-25" key="journals/tsc/GraietMBG17">
+<author>Mohamed Graiet</author>
+<author>Amel Mammar</author>
+<author>Souha Boubaker</author>
+<author orcid="0000-0003-0451-532X">Walid Gaaloul</author>
+<title>Towards Correct Cloud Resource Allocation in Business Processes.</title>
+<pages>23-36</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2016.2594062</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2594062</ee>
+<url>db/journals/tsc/tsc10.html#GraietMBG17</url>
+</article><article mdate="2018-11-02" key="journals/tsc/EmeakarohaFWHLM17">
+<author orcid="0000-0001-7869-2885">Vincent C. Emeakaroha</author>
+<author>Kaniz Fatema</author>
+<author orcid="0000-0003-4529-4690">Lisa van der Werff</author>
+<author>Philip D. Healy</author>
+<author>Theo Lynn</author>
+<author>John P. Morrison</author>
+<title>A Trust Label System for Communicating Trust in Cloud Services.</title>
+<pages>689-700</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2016.2553036</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2553036</ee>
+<url>db/journals/tsc/tsc10.html#EmeakarohaFWHLM17</url>
+</article><article mdate="2018-07-10" key="journals/tsc/XuLWLZLL18">
+<author>Ke Xu 0002</author>
+<author orcid="0000-0002-6805-9565">Tong Li 0014</author>
+<author>Haiyang Wang</author>
+<author>Haitao Li</author>
+<author>Wei Zhu</author>
+<author orcid="0000-0001-6592-1984">Jiangchuan Liu</author>
+<author>Song Lin</author>
+<title>Modeling, Analysis, and Implementation of Universal Acceleration Platform Across Online Video Sharing Sites.</title>
+<pages>534-548</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2016.2565470</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2565470</ee>
+<url>db/journals/tsc/tsc11.html#XuLWLZLL18</url>
+</article><article mdate="2017-05-28" key="journals/tsc/SilicDS15">
+<author>Marin Silic</author>
+<author>Goran Delac</author>
+<author>Sinisa Srbljic</author>
+<title>Prediction of Atomic Web Services Reliability for QoS-Aware Recommendation.</title>
+<pages>425-438</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2014.2346492</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2346492</ee>
+<url>db/journals/tsc/tsc8.html#SilicDS15</url>
+</article><article mdate="2019-10-23" key="journals/tsc/HuangZTFC19">
+<author orcid="0000-0003-2549-7597">Keman Huang</author>
+<author orcid="0000-0003-2148-0923">Jia Zhang 0001</author>
+<author orcid="0000-0002-2617-7598">Wei Tan 0001</author>
+<author orcid="0000-0001-8158-7453">Zhiyong Feng</author>
+<author orcid="0000-0002-4430-4765">Shizhan Chen</author>
+<title>Optimizing Semantic Annotations for Web Service Invocation.</title>
+<pages>590-603</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2016.2612632</ee>
+<url>db/journals/tsc/tsc12.html#HuangZTFC19</url>
+</article><article mdate="2018-01-11" key="journals/tsc/GoulMH17">
+<author>Michael Goul</author>
+<author>Paul P. Maglio</author>
+<author>Patrick C. K. Hung</author>
+<title>Guest Editorial: In Search of a New Alignment in Service Research-Dual-Journal Special Sections.</title>
+<pages>839-840</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSC.2017.2770283</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2017.2770283</ee>
+<url>db/journals/tsc/tsc10.html#GoulMH17</url>
+</article><article mdate="2017-05-28" key="journals/tsc/WangSDLLHM09">
+<author>Qianxiang Wang</author>
+<author>Jin Shao</author>
+<author>Fang Deng</author>
+<author>Yonggang Liu</author>
+<author>Min Li</author>
+<author>Jun Han</author>
+<author>Hong Mei</author>
+<title>An Online Monitoring Approach for Web Service Requirements.</title>
+<pages>338-351</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2009.22</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2009.22</ee>
+<url>db/journals/tsc/tsc2.html#WangSDLLHM09</url>
+</article><article mdate="2017-07-28" key="journals/tsc/RanYZX17">
+<author>Yongyi Ran</author>
+<author>Jian Yang 0014</author>
+<author>Shuben Zhang</author>
+<author>Hongsheng Xi</author>
+<title>Dynamic IaaS Computing Resource Provisioning Strategy with QoS Constraint.</title>
+<pages>190-202</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2015.2464212</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2464212</ee>
+<url>db/journals/tsc/tsc10.html#RanYZX17</url>
+</article><article mdate="2017-05-28" key="journals/tsc/QuanY11">
+<author>Dang Minh Quan</author>
+<author>Laurence Tianruo Yang</author>
+<title>Parallel Mapping with Time Optimization for SLA-Aware Compositional Services in the Business Grid.</title>
+<pages>196-206</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2011.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.27</ee>
+<url>db/journals/tsc/tsc4.html#QuanY11</url>
+</article><article mdate="2019-09-16" key="journals/tsc/LiYZQH17">
+<author>Jiguo Li</author>
+<author>Wei Yao</author>
+<author>Yichen Zhang</author>
+<author>Huiling Qian</author>
+<author orcid="0000-0002-4993-9452">Jinguang Han</author>
+<title>Flexible and Fine-Grained Attribute-Based Data Storage in Cloud Computing.</title>
+<pages>785-796</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2016.2520932</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2520932</ee>
+<url>db/journals/tsc/tsc10.html#LiYZQH17</url>
+</article><article mdate="2019-09-25" key="journals/tsc/KhanKHRZCVKLZ17">
+<author orcid="0000-0002-7299-621X">Muhammad Usman Shahid Khan</author>
+<author>Osman Khalid</author>
+<author>Ying Huang</author>
+<author>Rajiv Ranjan</author>
+<author>Fan Zhang 0003</author>
+<author>Junwei Cao</author>
+<author>Bharadwaj Veeravalli</author>
+<author>Samee U. Khan</author>
+<author>Keqin Li 0001</author>
+<author orcid="0000-0002-3090-1059">Albert Y. Zomaya</author>
+<title>MacroServ: A Route Recommendation Service for Large-Scale Evacuations.</title>
+<pages>589-602</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2015.2497241</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2497241</ee>
+<url>db/journals/tsc/tsc10.html#KhanKHRZCVKLZ17</url>
+</article><article mdate="2017-08-28" key="journals/tsc/OuniKIC17">
+<author orcid="0000-0003-4708-0362">Ali Ouni 0001</author>
+<author>Marouane Kessentini</author>
+<author>Katsuro Inoue</author>
+<author>Mel &Oacute; Cinn&eacute;ide</author>
+<title>Search-Based Web Service Antipatterns Detection.</title>
+<pages>603-617</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2015.2502595</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2502595</ee>
+<url>db/journals/tsc/tsc10.html#OuniKIC17</url>
+</article><article mdate="2018-11-14" key="journals/tsc/TelangS12">
+<author>Pankaj R. Telang</author>
+<author orcid="0000-0003-3599-3893">Munindar P. Singh</author>
+<title>Specifying and Verifying Cross-Organizational Business Models: An Agent-Oriented Approach.</title>
+<pages>305-318</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2011.4</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.4</ee>
+<ee>https://www.wikidata.org/entity/Q57431123</ee>
+<url>db/journals/tsc/tsc5.html#TelangS12</url>
+</article><article mdate="2018-11-24" key="journals/tsc/GhoshLXNT14">
+<author>Rahul Ghosh</author>
+<author orcid="0000-0001-6299-140X">Francesco Longo 0001</author>
+<author>Ruofan Xia</author>
+<author>Vijay K. Naik</author>
+<author>Kishor S. Trivedi</author>
+<title>Stochastic Model Driven Capacity Planning for an Infrastructure-as-a-Service Cloud.</title>
+<pages>667-680</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2013.44</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2013.44</ee>
+<ee>https://www.wikidata.org/entity/Q58598244</ee>
+<url>db/journals/tsc/tsc7.html#GhoshLXNT14</url>
+</article><article mdate="2019-10-23" key="journals/tsc/ZhongFHTZ15">
+<author>Yang Zhong</author>
+<author>Yushun Fan</author>
+<author>Keman Huang</author>
+<author>Wei Tan 0001</author>
+<author>Jia Zhang 0001</author>
+<title>Time-Aware Service Recommendation for Mashup Creation.</title>
+<pages>356-368</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2014.2381496</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2381496</ee>
+<url>db/journals/tsc/tsc8.html#ZhongFHTZ15</url>
+</article><article mdate="2017-05-28" key="journals/tsc/WolskiB14">
+<author>Richard Wolski</author>
+<author>John Brevik</author>
+<title>Using Parametric Models to Represent Private Cloud Workloads.</title>
+<pages>714-725</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2013.48</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2013.48</ee>
+<url>db/journals/tsc/tsc7.html#WolskiB14</url>
+</article><article mdate="2019-07-05" key="journals/tsc/SongSHSSNHLZZMB19">
+<author orcid="0000-0002-2553-3108">Dezhao Song</author>
+<author>Frank Schilder</author>
+<author>Shai Hertz</author>
+<author>Giuseppe Saltini</author>
+<author>Charese Smiley</author>
+<author>Phani Nivarthi</author>
+<author>Oren Hazai</author>
+<author>Dudi Landau</author>
+<author>Mike Zaharkin</author>
+<author>Tom Zielund</author>
+<author>Hugo Molina-Salgado</author>
+<author>Chris Brew</author>
+<author>Dan Bennett</author>
+<title>Building and Querying an Enterprise Knowledge Graph.</title>
+<pages>356-369</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2017.2711600</ee>
+<url>db/journals/tsc/tsc12.html#SongSHSSNHLZZMB19</url>
+</article><article mdate="2018-11-02" key="journals/tsc/BahriCF18">
+<author>Leila Bahri</author>
+<author orcid="0000-0002-7502-4731">Barbara Carminati</author>
+<author orcid="0000-0002-7312-6769">Elena Ferrari</author>
+<title>Privacy in Web Service Transactions: A Tale of More than a Decade of Work.</title>
+<pages>448-465</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2017.2711019</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2017.2711019</ee>
+<url>db/journals/tsc/tsc11.html#BahriCF18</url>
+</article><article mdate="2017-05-28" key="journals/tsc/YauY08">
+<author>Stephen S. Yau</author>
+<author>Yin Yin</author>
+<title>A Privacy Preserving Repository for Data Integration across Data Sharing Services.</title>
+<pages>130-140</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2008.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2008.14</ee>
+<url>db/journals/tsc/tsc1.html#YauY08</url>
+</article><article mdate="2017-05-28" key="journals/tsc/Zhang11">
+<author>Liang-Jie Zhang</author>
+<title>EIC Editorial: Application-Driven Management of Service Systems.</title>
+<pages>1-2</pages>
+<year>2011</year>
+<volume>4</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2011.16</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.16</ee>
+<url>db/journals/tsc/tsc4.html#Zhang11</url>
+</article><article mdate="2019-02-13" key="journals/tsc/ZhangCT19">
+<author>Yiming Zhang</author>
+<author>Rong Chang</author>
+<author>Paul Townend</author>
+<title>Guest Editor's Introduction: Special Section on Virtualization and Services for Cloud-Based Application Systems.</title>
+<pages>88-90</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2018.2878591</ee>
+<url>db/journals/tsc/tsc12.html#ZhangCT19</url>
+</article>
+<article mdate="2017-05-28" key="journals/tsc/Zhang08b">
+<author>Liang-Jie Zhang</author>
+<title>EIC Editorial: Introduction to the Knowledge Areas of Services Computing.</title>
+<pages>62-74</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2008.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2008.15</ee>
+<url>db/journals/tsc/tsc1.html#Zhang08b</url>
+</article><article mdate="2018-01-19" key="journals/tsc/ChenWJDW14">
+<author>Liang Chen 0001</author>
+<author>Jian Wu 0001</author>
+<author>Hengyi Jian</author>
+<author>Hongbo Deng</author>
+<author>Zhaohui Wu 0001</author>
+<title>Instant Recommendation for Web Services Composition.</title>
+<pages>586-598</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2013.32</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2013.32</ee>
+<url>db/journals/tsc/tsc7.html#ChenWJDW14</url>
+</article><article mdate="2017-05-28" key="journals/tsc/KritikosP09a">
+<author>Kyriakos Kritikos</author>
+<author>Dimitris Plexousakis</author>
+<title>Requirements for QoS-Based Web Service Description and Discovery.</title>
+<pages>320-337</pages>
+<year>2009</year>
+<volume>2</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2009.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2009.26</ee>
+<url>db/journals/tsc/tsc2.html#KritikosP09a</url>
+</article><article mdate="2019-10-19" key="journals/tsc/NepalBP14">
+<author orcid="0000-0002-3289-6599">Surya Nepal</author>
+<author orcid="0000-0003-1254-8092">Athman Bouguettaya</author>
+<author>C&eacute;cile Paris</author>
+<title>Guest Editorial: Special Issue on Clouds for Social Computing.</title>
+<pages>329-332</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2014.2313414</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2313414</ee>
+<url>db/journals/tsc/tsc7.html#NepalBP14</url>
+</article><article mdate="2019-05-31" key="journals/tsc/LiuLCZGYY19">
+<author orcid="0000-0001-9061-787X">Rui Liu 0002</author>
+<author orcid="0000-0001-9328-4919">Junbin Liang</author>
+<author orcid="0000-0002-2725-2529">Jiannong Cao</author>
+<author>Kehuan Zhang</author>
+<author>Wenyu Gao</author>
+<author>Lei Yang 0024</author>
+<author>Ruiyun Yu</author>
+<title>Understanding Mobile Users' Privacy Expectations: A Recommendation-Based Method Through Crowdsourcing.</title>
+<pages>304-318</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2016.2636285</ee>
+<url>db/journals/tsc/tsc12.html#LiuLCZGYY19</url>
+</article><article mdate="2017-05-28" key="journals/tsc/HeSYZ16">
+<author>Wenbo He</author>
+<author>Sahra Sedigh Sarvestani</author>
+<author>I-Ling Yen</author>
+<author>Jia Zhang</author>
+<title>Guest Editorial: Special Issue on Cyber-Physical Systems and Services.</title>
+<pages>172-173</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2016.2547518</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2547518</ee>
+<url>db/journals/tsc/tsc9.html#HeSYZ16</url>
+</article><article mdate="2019-08-21" key="journals/tsc/LinS19">
+<author>Yuhua Lin</author>
+<author orcid="0000-0002-7681-6255">Haiying Shen</author>
+<title>AutoTune: Game-Based Adaptive Bitrate Streaming in Cloud-Based Hybrid VoD Systems.</title>
+<pages>519-533</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2016.2605082</ee>
+<url>db/journals/tsc/tsc12.html#LinS19</url>
+</article><article mdate="2017-05-28" key="journals/tsc/ZhuA12">
+<author>Qian Zhu</author>
+<author>Gagan Agrawal</author>
+<title>Resource Provisioning with Budget Constraints for Adaptive Applications in Cloud Environments.</title>
+<pages>497-511</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2011.61</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.61</ee>
+<url>db/journals/tsc/tsc5.html#ZhuA12</url>
+</article><article mdate="2019-11-07" key="journals/tsc/ZhangLYCKL19">
+<author orcid="0000-0001-5525-687X">Qingchen Zhang</author>
+<author>Man Lin</author>
+<author orcid="0000-0002-7986-4244">Laurence T. Yang</author>
+<author orcid="0000-0002-9209-2189">Zhikui Chen</author>
+<author>Samee U. Khan</author>
+<author>Peng Li 0027</author>
+<title>A Double Deep Q-Learning Model for Energy-Efficient Edge Scheduling.</title>
+<pages>739-749</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2018.2867482</ee>
+<url>db/journals/tsc/tsc12.html#ZhangLYCKL19</url>
+</article><article mdate="2017-05-28" key="journals/tsc/SurianarayananG16">
+<author>Chellammal Surianarayanan</author>
+<author>Gopinath Ganapathy</author>
+<title>An Approach to Computation of Similarity, Inter-Cluster Distance and Selection of Threshold for Service Discovery Using Clusters.</title>
+<pages>524-536</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2015.2399301</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2399301</ee>
+<url>db/journals/tsc/tsc9.html#SurianarayananG16</url>
+</article><article mdate="2017-05-28" key="journals/tsc/ChoKK16">
+<author>Jae-Hyun Cho</author>
+<author>Han-Gyu Ko</author>
+<author>In-Young Ko</author>
+<title>Adaptive Service Selection According to the Service Density in Multiple Qos Aspects.</title>
+<pages>883-894</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSC.2015.2428251</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2428251</ee>
+<url>db/journals/tsc/tsc9.html#ChoKK16</url>
+</article><article mdate="2019-09-09" key="journals/tsc/LiuGHRJLW18">
+<author orcid="0000-0002-2595-4893">Yue Liu 0006</author>
+<author>Shuai Guo</author>
+<author>Songlin Hu</author>
+<author>Tilmann Rabl</author>
+<author>Hans-Arno Jacobsen</author>
+<author>Jintao Li</author>
+<author>Jiye Wang</author>
+<title>Performance Evaluation and Optimization of Multi-Dimensional Indexes in Hive.</title>
+<pages>835-849</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2016.2594778</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2594778</ee>
+<url>db/journals/tsc/tsc11.html#LiuGHRJLW18</url>
+</article><article mdate="2017-05-28" key="journals/tsc/MohaisenTCK14">
+<author>Aziz Mohaisen</author>
+<author>Huy Tran</author>
+<author>Abhishek Chandra</author>
+<author>Yongdae Kim</author>
+<title>Trustworthy Distributed Computing on Social Networks.</title>
+<pages>333-345</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2013.56</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2013.56</ee>
+<url>db/journals/tsc/tsc7.html#MohaisenTCK14</url>
+</article><article mdate="2017-10-18" key="journals/tsc/MukherjeeT17">
+<author>Arko Provo Mukherjee</author>
+<author>Srikanta Tirthapura</author>
+<title>Enumerating Maximal Bicliques from a Large Graph Using MapReduce.</title>
+<pages>771-784</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2016.2523997</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2523997</ee>
+<url>db/journals/tsc/tsc10.html#MukherjeeT17</url>
+</article><article mdate="2017-06-09" key="journals/tsc/NguyenC15">
+<author orcid="0000-0002-9354-7544">Kim Khoa Nguyen</author>
+<author>Mohamed Cheriet</author>
+<title>Environment-Aware Virtual Slice Provisioning in Green Cloud Environment.</title>
+<pages>507-519</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2014.2362544</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2362544</ee>
+<url>db/journals/tsc/tsc8.html#NguyenC15</url>
+</article><article mdate="2017-06-09" key="journals/tsc/SegevS12">
+<author>Aviv Segev</author>
+<author orcid="0000-0002-3326-4147">Quan Z. Sheng</author>
+<title>Bootstrapping Ontologies for Web Services.</title>
+<pages>33-44</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2010.51</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2010.51</ee>
+<url>db/journals/tsc/tsc5.html#SegevS12</url>
+</article><article mdate="2019-05-28" key="journals/tsc/ZhouCWZL18">
+<author>Jingwen Zhou</author>
+<author>Zhenbang Chen</author>
+<author>Ji Wang 0001</author>
+<author>Zibin Zheng</author>
+<author>Michael R. Lyu</author>
+<title>A Data Set for User Request Trace-Oriented Monitoring and its Applications.</title>
+<pages>699-712</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2015.2491286</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2491286</ee>
+<url>db/journals/tsc/tsc11.html#ZhouCWZL18</url>
+</article><article mdate="2017-06-09" key="journals/tsc/ArdagnaCLS14">
+<author orcid="0000-0001-7426-4795">Claudio Agostino Ardagna</author>
+<author orcid="0000-0002-3612-1934">Mauro Conti</author>
+<author>Mario Leone</author>
+<author orcid="0000-0001-5718-3408">Julinda Stefa</author>
+<title>An Anonymous End-to-End Communication Protocol for Mobile Cloud Environments.</title>
+<pages>373-386</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2014.2304717</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2304717</ee>
+<url>db/journals/tsc/tsc7.html#ArdagnaCLS14</url>
+</article><article mdate="2017-05-28" key="journals/tsc/ChurchG14">
+<author>Philip Church</author>
+<author>Andrzej M. Goscinski</author>
+<title>A Survey of Cloud-Based Service Computing Solutions for Mammalian Genomics.</title>
+<pages>726-740</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2014.2353645</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2353645</ee>
+<url>db/journals/tsc/tsc7.html#ChurchG14</url>
+</article><article mdate="2019-09-16" key="journals/tsc/Rodriguez-MierP16">
+<author orcid="0000-0002-4938-4418">Pablo Rodr&iacute;guez-Mier</author>
+<author>Carlos Pedrinaci</author>
+<author orcid="0000-0001-7195-6155">Manuel Lama</author>
+<author orcid="0000-0003-1735-3585">Manuel Mucientes</author>
+<title>An Integrated Semantic Web Service Discovery and Composition Framework.</title>
+<pages>537-550</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2015.2402679</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2402679</ee>
+<url>db/journals/tsc/tsc9.html#Rodriguez-MierP16</url>
+</article><article mdate="2018-11-14" key="journals/tsc/ShahSZG16">
+<author>Syed Yousaf Shah</author>
+<author orcid="0000-0002-0307-6743">Boleslaw K. Szymanski</author>
+<author>Petros Zerfos</author>
+<author>Christopher Gibson</author>
+<title>Towards Relevancy Aware Service Oriented Systems in WSNs.</title>
+<pages>304-316</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2014.2362913</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2362913</ee>
+<ee>https://www.wikidata.org/entity/Q57000597</ee>
+<url>db/journals/tsc/tsc9.html#ShahSZG16</url>
+</article><article mdate="2019-10-19" key="journals/tsc/QuWOLLB15">
+<author>Lie Qu</author>
+<author orcid="0000-0002-5344-1884">Yan Wang 0002</author>
+<author orcid="0000-0002-7873-1562">Mehmet A. Orgun</author>
+<author>Ling Liu 0001</author>
+<author>Huan Liu</author>
+<author orcid="0000-0003-1254-8092">Athman Bouguettaya</author>
+<title>CCCloud: Context-Aware and Credible Cloud Service Selection Based on Subjective Assessment and Objective Assessment.</title>
+<pages>369-383</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2015.2413111</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2413111</ee>
+<ee>https://www.wikidata.org/entity/Q58184798</ee>
+<url>db/journals/tsc/tsc8.html#QuWOLLB15</url>
+</article><article mdate="2019-06-02" key="journals/tsc/SchallSD12">
+<author>Daniel Schall 0001</author>
+<author orcid="0000-0002-1922-7892">Florian Skopik</author>
+<author orcid="0000-0001-6872-8821">Schahram Dustdar</author>
+<title>Expert Discovery and Interactions in Mixed Service-Oriented Systems.</title>
+<pages>233-245</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2011.2</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.2</ee>
+<ee>https://www.wikidata.org/entity/Q60485373</ee>
+<url>db/journals/tsc/tsc5.html#SchallSD12</url>
+</article><article mdate="2018-11-02" key="journals/tsc/HwangLLC08">
+<author>San-Yih Hwang</author>
+<author orcid="0000-0003-0065-8665">Ee-Peng Lim</author>
+<author>Chien-Hsiang Lee</author>
+<author>Cheng-Hung Chen</author>
+<title>Dynamic Web Service Selection for Reliable Web Service Composition.</title>
+<pages>104-116</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2008.2</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2008.2</ee>
+<url>db/journals/tsc/tsc1.html#HwangLLC08</url>
+</article><article mdate="2017-11-28" key="journals/tsc/Liu15">
+<author>Ling Liu 0001</author>
+<title>Editorial: Service Computing in 2015.</title>
+<pages>1</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2015.2394251</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2394251</ee>
+<url>db/journals/tsc/tsc8.html#Liu15</url>
+</article><article mdate="2017-06-15" key="journals/tsc/SmitS13">
+<author orcid="0000-0002-2028-4317">Michael Smit</author>
+<author>Eleni Stroulia</author>
+<title>Simulating Service-Oriented Systems: A Survey and the Services-Aware Simulation Framework.</title>
+<pages>443-456</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2012.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2012.15</ee>
+<url>db/journals/tsc/tsc6.html#SmitS13</url>
+</article><article mdate="2017-05-28" key="journals/tsc/Sim12">
+<author>Kwang Mong Sim</author>
+<title>Agent-Based Cloud Computing.</title>
+<pages>564-577</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2011.52</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2011.52</ee>
+<url>db/journals/tsc/tsc5.html#Sim12</url>
+</article><article mdate="2018-06-11" key="journals/tsc/LiQR18">
+<author orcid="0000-0003-3201-0038">Xiaoping Li 0001</author>
+<author>Lihua Qian</author>
+<author orcid="0000-0003-3295-3888">Rub&eacute;n Ruiz</author>
+<title>Cloud Workflow Scheduling with Deadlines and Time Slot Availability.</title>
+<pages>329-340</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2016.2518187</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2518187</ee>
+<url>db/journals/tsc/tsc11.html#LiQR18</url>
+</article><article mdate="2017-05-28" key="journals/tsc/LufeiSC08">
+<author>Hanping Lufei</author>
+<author>Weisong Shi</author>
+<author>Vipin Chaudhary</author>
+<title>Adaptive Secure Access to Remote Services in Mobile Environments.</title>
+<pages>49-61</pages>
+<year>2008</year>
+<volume>1</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2008.4</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2008.4</ee>
+<url>db/journals/tsc/tsc1.html#LufeiSC08</url>
+</article><article mdate="2018-06-07" key="journals/tsc/Jiang16">
+<author orcid="0000-0003-0864-1665">Bo Jiang 0001</author>
+<title>FLANDROID: Energy-Efficient Recommendations of Reliable Context Providers for Android Applications.</title>
+<pages>745-756</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2016.2561922</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2561922</ee>
+<url>db/journals/tsc/tsc9.html#Jiang16</url>
+</article><article mdate="2018-10-25" key="journals/tsc/LiGHSHL18">
+<author>Zhongjin Li</author>
+<author>Jidong Ge</author>
+<author>Haiyang Hu</author>
+<author orcid="0000-0002-4324-3382">Wei Song 0003</author>
+<author>Hao Hu 0001</author>
+<author>Bin Luo 0003</author>
+<title>Cost and Energy Aware Scheduling Algorithm for Scientific Workflows with Deadline Constraint in Clouds.</title>
+<pages>713-726</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TSC.2015.2466545</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2466545</ee>
+<url>db/journals/tsc/tsc11.html#LiGHSHL18</url>
+</article><article mdate="2018-01-19" key="journals/tsc/WuYDWLC16">
+<author>Zhaohui Wu 0001</author>
+<author>Jianwei Yin</author>
+<author>ShuiGuang Deng</author>
+<author>Jian Wu 0001</author>
+<author>Ying Li 0001</author>
+<author>Liang Chen 0001</author>
+<title>Modern Service Industry and Crossover Services: Development and Trends in China.</title>
+<pages>664-671</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSC.2015.2418765</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2418765</ee>
+<url>db/journals/tsc/tsc9.html#WuYDWLC16</url>
+</article><article mdate="2018-11-14" key="journals/tsc/AalstD15">
+<author orcid="0000-0002-0955-6940">Wil M. P. van der Aalst</author>
+<author orcid="0000-0002-9557-6496">Ernesto Damiani</author>
+<title>Processes Meet Big Data: Connecting Data Science with Process Science.</title>
+<pages>810-819</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSC.2015.2493732</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2493732</ee>
+<ee>https://www.wikidata.org/entity/Q57004764</ee>
+<url>db/journals/tsc/tsc8.html#AalstD15</url>
+</article><article mdate="2019-02-27" key="journals/tsc/ChenPLSZZ19">
+<author orcid="0000-0001-7238-7492">Bihuan Chen 0001</author>
+<author orcid="0000-0003-3376-2581">Xin Peng 0001</author>
+<author orcid="0000-0001-7300-9215">Yang Liu 0003</author>
+<author>Songzheng Song</author>
+<author>Jiahuan Zheng</author>
+<author>Wenyun Zhao</author>
+<title>Architecture-Based Behavioral Adaptation with Generated Alternatives and Relaxed Constraints.</title>
+<pages>73-87</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2016.2593459</ee>
+<url>db/journals/tsc/tsc12.html#ChenPLSZZ19</url>
+</article><article mdate="2019-10-23" key="journals/tsc/YaoTNCZRG15">
+<author>Jinhui Yao</author>
+<author>Wei Tan 0001</author>
+<author orcid="0000-0002-3289-6599">Surya Nepal</author>
+<author orcid="0000-0002-4603-0024">Shiping Chen</author>
+<author>Jia Zhang 0001</author>
+<author orcid="0000-0001-9074-3016">David De Roure</author>
+<author>Carole A. Goble</author>
+<title>ReputationNet: Reputation-Based Service Recommendation for e-Science.</title>
+<pages>439-452</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TSC.2014.2364029</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2364029</ee>
+<ee>https://www.wikidata.org/entity/Q58882738</ee>
+<url>db/journals/tsc/tsc8.html#YaoTNCZRG15</url>
+</article><article mdate="2017-05-28" key="journals/tsc/UnuvarTDST15">
+<author>Merve Unuvar</author>
+<author>Stefania Tosi</author>
+<author>Yurdaer N. Doganata</author>
+<author>Malgorzata Gosia Steinder</author>
+<author>Asser N. Tantawi</author>
+<title>Selecting Optimum Cloud Availability Zones by Learning User Satisfaction Levels.</title>
+<pages>199-211</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2014.2381225</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2014.2381225</ee>
+<url>db/journals/tsc/tsc8.html#UnuvarTDST15</url>
+</article><article mdate="2018-11-02" key="journals/tsc/TaoLLL16">
+<author orcid="0000-0002-9020-0633">Fei Tao</author>
+<author>Chen Li</author>
+<author>T. Warren Liao</author>
+<author>Yuanjun Laili</author>
+<title>BGM-BLA: A New Algorithm for Dynamic Migration of Virtual Machines in Cloud Computing.</title>
+<pages>910-925</pages>
+<year>2016</year>
+<volume>9</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSC.2015.2416928</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2015.2416928</ee>
+<url>db/journals/tsc/tsc9.html#TaoLLL16</url>
+</article><article mdate="2019-09-25" key="journals/tsc/ChichinVK17">
+<author>Sergei Chichin</author>
+<author>Quoc Bao Vo</author>
+<author orcid="0000-0003-0937-4028">Ryszard Kowalczyk</author>
+<title>Towards Efficient and Truthful Market Mechanisms for Double-Sided Cloud Markets.</title>
+<pages>37-51</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TSC.2016.2594764</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2016.2594764</ee>
+<url>db/journals/tsc/tsc10.html#ChichinVK17</url>
+</article><article mdate="2019-05-31" key="journals/tsc/SotiriadisBAB19">
+<author orcid="0000-0002-2494-5127">Stelios Sotiriadis</author>
+<author>Nik Bessis</author>
+<author>Cristiana Amza</author>
+<author orcid="0000-0001-9754-6496">Rajkumar Buyya</author>
+<title>Elastic Load Balancing for Dynamic Virtual Machine Reconfiguration Based on Vertical and Horizontal Scaling.</title>
+<pages>319-334</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TSC.2016.2634024</ee>
+<url>db/journals/tsc/tsc12.html#SotiriadisBAB19</url>
+</article><article mdate="2017-05-28" key="journals/tsc/RanabahuMST15">
+<author>Ajith Ranabahu</author>
+<author>E. Michael Maximilien</author>
+<author>Amit P. Sheth</author>
+<author>Krishnaprasad Thirunarayan</author>
+<title>Application Portability in Cloud Computing: An Abstraction-Driven Perspective.</title>
+<pages>945-957</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>IEEE Trans. Services Computing</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSC.2013.25</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSC.2013.25</ee>
+<url>db/journals/tsc/tsc8.html#RanabahuMST15</url>
+</article>
+<inproceedings mdate="2017-06-02" key="conf/ejc/HartmannL13">
+<author>Sven Hartmann</author>
+<author orcid="0000-0002-1816-2863">Sebastian Link</author>
+<title>Normal Forms and Normalization for Probabilistic Databases under Sharp Constraints.</title>
+<pages>1-16</pages>
+<year>2013</year>
+<booktitle>EJC</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-361-2-1</ee>
+<crossref>conf/ejc/2013</crossref>
+<url>db/conf/ejc/ejc2013.html#HartmannL13</url>
+</inproceedings><inproceedings mdate="2017-03-16" key="conf/ejc/Koch99">
+<author>Gregers Koch</author>
+<title>A Method of Automated Semantic Parser Generation with an Application to Language Technology.</title>
+<pages>103-108</pages>
+<year>1999</year>
+<crossref>conf/ejc/1999</crossref>
+<booktitle>EJC</booktitle>
+<url>db/conf/ejc/ejc1999.html#Koch99</url>
+</inproceedings>
+<inproceedings mdate="2018-01-29" key="conf/ejc/Duzi17">
+<author>Marie Duz&iacute;</author>
+<title>Logic of Dynamic Discourse; Anaphora Resolution.</title>
+<pages>263-279</pages>
+<year>2017</year>
+<booktitle>EJC</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-834-1-263</ee>
+<crossref>conf/ejc/2017</crossref>
+<url>db/conf/ejc/ejc2017.html#Duzi17</url>
+</inproceedings>
+<inproceedings mdate="2017-08-25" key="conf/ejc/AlBdaiwiNT14">
+<author>Bader F. AlBdaiwi</author>
+<author>Ren&eacute; Noack</author>
+<author>Bernhard Thalheim</author>
+<title>Pattern-Based Conceptual Data Modelling.</title>
+<pages>1-20</pages>
+<year>2014</year>
+<booktitle>EJC</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-472-5-1</ee>
+<crossref>conf/ejc/2014</crossref>
+<url>db/conf/ejc/ejc2014.html#AlBdaiwiNT14</url>
+</inproceedings><inproceedings mdate="2017-05-24" key="conf/ejc/JaakkolaT12">
+<author>Hannu Jaakkola</author>
+<author>Bernhard Thalheim</author>
+<title>Exception-Aware (Information) Systems.</title>
+<pages>300-313</pages>
+<year>2012</year>
+<booktitle>EJC</booktitle>
+<ee>https://doi.org/10.3233/978-1-61499-177-9-300</ee>
+<crossref>conf/ejc/2012</crossref>
+<url>db/conf/ejc/ejc2012.html#JaakkolaT12</url>
+</inproceedings><inproceedings mdate="2017-05-24" key="conf/ejc/CihalovaCDM09">
+<author>Martina C&iacute;halov&aacute;</author>
+<author>Nikola Ciprich</author>
+<author>Marie Duz&iacute;</author>
+<author>Marek Mens&iacute;k</author>
+<title>Agents' reasoning using TIL-Script and Prolog.</title>
+<pages>135-154</pages>
+<year>2009</year>
+<booktitle>EJC</booktitle>
+<ee>https://doi.org/10.3233/978-1-60750-477-1-135</ee>
+<crossref>conf/ejc/2009</crossref>
+<url>db/conf/ejc/ejc2009.html#CihalovaCDM09</url>
+</inproceedings>
+<inproceedings mdate="2012-09-18" key="conf/er/Belmonte87">
+<author>Rick Belmonte</author>
+<title>Transforming Data Plans into Data Models (Abstract of Tutorial).</title>
+<pages>7</pages>
+<year>1987</year>
+<booktitle>ER</booktitle>
+<url>db/conf/er/er87.html#Belmonte87</url>
+<crossref>conf/er/87</crossref>
+<cdrom>er87/ER87-P007.pdf</cdrom>
+</inproceedings>
+<article mdate="2017-05-27" key="journals/ijismd/HenkelJP11">
+<author>Martin Henkel</author>
+<author>Paul Johannesson</author>
+<author>Erik Perjons</author>
+<title>An Approach for E-Service Design using Enterprise Models.</title>
+<pages>1-23</pages>
+<year>2011</year>
+<volume>2</volume>
+<journal>IJISMD</journal>
+<number>1</number>
+<ee>https://doi.org/10.4018/jismd.2011010101</ee>
+<url>db/journals/ijismd/ijismd2.html#HenkelJP11</url>
+</article>
+<article mdate="2019-05-22" key="journals/csimq/KameniWG17">
+<author>Eric D. Kameni</author>
+<author>Theo P. van der Weide</author>
+<author>Wouter T. de Groot</author>
+<title>Natural Model based Design in Context: an Effective Method for Environmental Problems.</title>
+<pages>86-116</pages>
+<year>2017</year>
+<volume>12</volume>
+<journal>CSIMQ</journal>
+<ee type="oa">https://doi.org/10.7250/csimq.2017-12.05</ee>
+<url>db/journals/csimq/csimq12.html#KameniWG17</url>
+</article><article mdate="2019-09-25" key="journals/ijismd/AsadiMGBH12">
+<author>Mohsen Asadi</author>
+<author>Bardia Mohabbati</author>
+<author orcid="0000-0001-9265-1908">Dragan Gasevic</author>
+<author orcid="0000-0002-5148-6237">Ebrahim Bagheri</author>
+<author>Marek Hatala</author>
+<title>Developing Semantically-Enabled Families of Method-Oriented Architectures.</title>
+<pages>1-26</pages>
+<year>2012</year>
+<volume>3</volume>
+<journal>IJISMD</journal>
+<number>4</number>
+<ee>https://doi.org/10.4018/jismd.2012100101</ee>
+<url>db/journals/ijismd/ijismd3.html#AsadiMGBH12</url>
+</article><article mdate="2019-09-16" key="journals/ijismd/MarquesSS18">
+<author>Rui Pedro Marques</author>
+<author>Henrique Santos 0001</author>
+<author orcid="0000-0001-9728-8538">Carlos Santos 0002</author>
+<title>Comparison and Evaluation of Organizational Transactions for Continuous Auditing and Business Compliance.</title>
+<pages>1-23</pages>
+<year>2018</year>
+<volume>9</volume>
+<journal>IJISMD</journal>
+<number>2</number>
+<ee>https://doi.org/10.4018/IJISMD.2018040101</ee>
+<url>db/journals/ijismd/ijismd9.html#MarquesSS18</url>
+</article><article mdate="2017-06-12" key="journals/ijismd/PryssR16">
+<author>R&uuml;diger Pryss</author>
+<author>Manfred Reichert</author>
+<title>Robust Execution of Mobile Activities in Process-Aware Information Systems.</title>
+<pages>50-82</pages>
+<year>2016</year>
+<volume>7</volume>
+<journal>IJISMD</journal>
+<number>4</number>
+<ee>https://doi.org/10.4018/IJISMD.2016100104</ee>
+<url>db/journals/ijismd/ijismd7.html#PryssR16</url>
+</article>
+<article mdate="2016-03-17" key="journals/emisaij/OfnerOO13">
+<author>Martin Ofner</author>
+<author>Boris Otto</author>
+<author>Hubert &Ouml;sterle</author>
+<title>A Maturity Model for Enterprise Data Quality Management.</title>
+<pages>4-24</pages>
+<year>2013</year>
+<volume>8</volume>
+<journal>Enterprise Modelling and Information Systems Architectures</journal>
+<number>2</number>
+<ee>https://www.emisa-journal.org/emisa/article/view/105</ee>
+<url>db/journals/emisaij/emisaij8.html#OfnerOO13</url>
+</article><article mdate="2019-03-15" key="journals/emisaij/PoppelbussL18">
+<author>Jens P&ouml;ppelbu&szlig;</author>
+<author>Aleksander Lubarski</author>
+<title>A Classification Framework for Service Modularization Methods.</title>
+<pages>14:1-22</pages>
+<year>2018</year>
+<volume>13</volume>
+<journal>Enterprise Modelling and Information Systems Architectures</journal>
+<ee>https://doi.org/10.18417/emisa.13.14</ee>
+<url>db/journals/emisaij/emisaij13.html#PoppelbussL18</url>
+</article>
+<inproceedings mdate="2017-12-01" key="conf/models/DurisicMST17">
+<author>Darko Durisic</author>
+<author>Corrado Motta</author>
+<author>Miroslaw Staron</author>
+<author>Matthias Tichy</author>
+<title>Co-Evolution of Meta-Modeling Syntax and Informal Semantics in Domain-Specific Modeling Environments - A Case Study of AUTOSAR.</title>
+<pages>189-198</pages>
+<year>2017</year>
+<booktitle>MoDELS</booktitle>
+<ee>https://doi.org/10.1109/MODELS.2017.2</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MODELS.2017.2</ee>
+<crossref>conf/models/2017</crossref>
+<url>db/conf/models/models2017.html#DurisicMST17</url>
+</inproceedings><inproceedings mdate="2017-12-01" key="conf/models/DurisicMST17">
+<author>Michael Szvetits</author>
+<author>Uwe Zdun </author>
+<title>Reusable event types for models at runtime to support the examination of runtime phenomena</title>
+<year>2015</year>
+<booktitle>MoDELS</booktitle>
+<ee>https://doi.org/10.1109/MODELS.2015.7338230</ee>
+</inproceedings><inproceedings mdate="2017-05-25" key="conf/models/BrauerD07">
+<author>Matthias Br&auml;uer</author>
+<author>Birgit Demuth</author>
+<title>Model-Level Integration of the OCL Standard Library Using a Pivot Model with Generics Support.</title>
+<pages>182-193</pages>
+<year>2007</year>
+<booktitle>MoDELS Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-69073-3_20</ee>
+<crossref>conf/models/2007w</crossref>
+<url>db/conf/models/models2007w.html#BrauerD07</url>
+</inproceedings><inproceedings mdate="2017-05-25" key="conf/models/WienandsG09">
+<author>Christoph Wienands</author>
+<author>Michael Golm</author>
+<title>Anatomy of a Visual Domain-Specific Language Project in an Industrial Context.</title>
+<pages>453-467</pages>
+<year>2009</year>
+<booktitle>MoDELS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04425-0_35</ee>
+<crossref>conf/models/2009</crossref>
+<url>db/conf/models/models2009.html#WienandsG09</url>
+</inproceedings><inproceedings mdate="2019-09-25" key="conf/models/ArcegaFC18">
+<author>Lorena Arcega</author>
+<author orcid="0000-0002-2980-5596">Jaime Font</author>
+<author>Carlos Cetina</author>
+<title>Evolutionary Algorithm for Bug Localization in the Reconfigurations of Models at Runtime.</title>
+<pages>90-100</pages>
+<year>2018</year>
+<booktitle>MoDELS</booktitle>
+<ee>https://doi.org/10.1145/3239372.3239392</ee>
+<crossref>conf/models/2018</crossref>
+<url>db/conf/models/models2018.html#ArcegaFC18</url>
+</inproceedings><inproceedings mdate="2018-11-19" key="conf/models/SemerathHV13">
+<author orcid="0000-0002-3592-5105">Oszk&aacute;r Semer&aacute;th</author>
+<author>&Aacute;kos Horv&aacute;th 0001</author>
+<author orcid="0000-0002-8790-252X">D&aacute;niel Varr&oacute;</author>
+<title>Validation of Derived Features and Well-Formedness Constraints in DSLs - By Mapping Graph Queries to an SMT-Solver.</title>
+<pages>538-554</pages>
+<year>2013</year>
+<booktitle>MoDELS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41533-3_33</ee>
+<ee>https://www.wikidata.org/entity/Q57090067</ee>
+<crossref>conf/models/2013</crossref>
+<url>db/conf/models/models2013.html#SemerathHV13</url>
+</inproceedings><inproceedings mdate="2017-06-04" key="conf/models/GorpE10">
+<author>Pieter Van Gorp</author>
+<author orcid="0000-0003-2314-7155">Rik Eshuis</author>
+<title>Transforming Process Models: Executable Rewrite Rules versus a Formalized Java Program.</title>
+<pages>258-272</pages>
+<year>2010</year>
+<booktitle>MoDELS (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16129-2_19</ee>
+<crossref>conf/models/2010-2</crossref>
+<url>db/conf/models/models2010-2.html#GorpE10</url>
+</inproceedings>
+<inproceedings mdate="2017-05-20" key="conf/er/Tari92">
+<author>Zahir Tari</author>
+<title>A Design Methodology for Object Oriented Databases.</title>
+<pages>389-405</pages>
+<year>1992</year>
+<booktitle>ER</booktitle>
+<url>db/conf/er/er92.html#Tari92</url>
+<crossref>conf/er/92</crossref>
+<cdrom>er92/ER92-P389.pdf</cdrom>
+<ee>https://doi.org/10.1007/3-540-56023-8_24</ee>
+<cite>conf/vldb/AlbanoGO91</cite>
+<cite>conf/dood/AtkinsonBDDMZ89</cite>
+<cite>conf/vldb/BouzeghoubM91</cite>
+<cite>conf/db-workshops/Brodie82</cite>
+<cite>books/aw/kimL89/BretlMOPSSWW89</cite>
+<cite>journals/tods/Chen76</cite>
+<cite>journals/tkde/Deux90</cite>
+<cite>journals/csur/GallaireMN84</cite>
+<cite>journals/tods/HammerM81</cite>
+<cite>conf/er/HohensteinH91</cite>
+<cite>journals/csur/HullK87</cite>
+<cite>conf/dasfaa/HwangL91</cite>
+<cite>journals/tois/KingM85</cite>
+<cite>conf/er/JungclausSH91</cite>
+<cite>conf/er/Kilian91</cite>
+<cite>journals/tkde/KimGBW90</cite>
+<cite>conf/vldb/LecluseR89</cite>
+<cite>conf/vldb/MylopoulosW80</cite>
+<cite>conf/er/NachoukiCB91</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/db-workshops/Reiter82</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+<article mdate="2019-08-20" key="journals/sosym/TekinerdoganA19">
+<author>Bedir Tekinerdogan</author>
+<author>Ethem Arkin</author>
+<title>ParDSL: a domain-specific language framework for supporting deployment of parallel algorithms.</title>
+<pages>2907-2935</pages>
+<year>2019</year>
+<volume>18</volume>
+<journal>Software and Systems Modeling</journal>
+<number>5</number>
+<ee type="oa">https://link.springer.com/article/10.1007%2Fs10270-004-0075-9</ee>
+<url>db/journals/sosym/sosym18.html#TekinerdoganA19</url>
+</article><article mdate="2019-08-19" key="journals/sosym/AbdallahHJ15">
+<author>Rouwaida Abdallah</author>
+<author>Lo&iuml;c H&eacute;lou&euml;t</author>
+<author>Claude Jard</author>
+<title>Distributed implementation of message sequence charts.</title>
+<pages>1029-1048</pages>
+<year>2015</year>
+<volume>14</volume>
+<journal>Software and Systems Modeling</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10270-013-0357-1</ee>
+<url>db/journals/sosym/sosym14.html#AbdallahHJ15</url>
+</article>
+</dblp>
+
