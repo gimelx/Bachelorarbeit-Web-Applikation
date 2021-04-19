@@ -1,0 +1,1 @@
+{"create-general":"CREATE TABLE IF NOT EXISTS articles(\r\nTITLE TEXT  \r\n);\r\n            "}
